@@ -92,6 +92,7 @@ These documents enable the AI to:
 
 ---
 
+<<<<<<< HEAD
 ## Notes
 
 * Content is based on peer-reviewed research
@@ -100,6 +101,8 @@ These documents enable the AI to:
 
 ---
 
+=======
+>>>>>>> 2eea11c ([RAG] : Modify workout's README)
 ## Example Queries
 
 * What is the best rep range for hypertrophy?
