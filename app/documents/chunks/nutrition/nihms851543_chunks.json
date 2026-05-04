@@ -1,0 +1,422 @@
+[
+  {
+    "id": "nutrition_nihms851543_1",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "# Page 0\n\nObesity Energetics: Body Weight Regulation and the Effects of\nDiet Composition\nKevin D. Hall and Juen Guo\nNational Institute of Diabetes & Digestive & Kidney Diseases, Bethesda, Maryland\nAbstract\nWeight changes are accompanied by imbalances between calorie intake and expenditure. This fact\nis often misinterpreted to suggest that obesity is caused by gluttony and sloth and can be treated by\nsimply advising people to eat less and move more. However, various components of energy\nbalance are dynamically interrelated and weight loss is resisted by counterbalancing physiological\nprocesses. While low-carbohydrate diets have been suggested to partially subvert these processes\nby increasing energy expenditure and promoting fat loss, our meta-analysis of 32 controlled\nfeeding studies with "
+  },
+  {
+    "id": "nutrition_nihms851543_2",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": " energy expenditure and promoting fat loss, our meta-analysis of 32 controlled\nfeeding studies with isocaloric substitution of carbohydrate for fat found that both energy\nexpenditure (26 kcal/d; P <.0001) and fat loss (16 g/d; P <.0001) were greater with lower fat diets.\nWe review the components of energy balance and the mechanisms acting to resist weight loss in\nthe context of static, settling point, and set-point models of body weight regulation, with the setpoint model being most commensurate with current data.\nKeywords\nBody Weight Regulation; Energy Intake; Energy Expenditure; Macronutrients\nObesity is often described as a disorder of energy balance arising from consuming calories\nin excess to the energy expended to maintain life and perform physical work. While this\nenergy balance con"
+  },
+  {
+    "id": "nutrition_nihms851543_3",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "ess to the energy expended to maintain life and perform physical work. While this\nenergy balance concept is a useful framework for investigating obesity, it does not provide a\ncausal explanation for why some people have obesity or what to do about it.\nIn particular, obesity prevention is often erroneously portrayed as a simple matter of\nbookkeeping whereby calorie intake must be balanced by calorie expenditure.1 Under this\n“calories in, calories out” model, treating obesity amounts to advising people to simply eat\nless and move more, thereby tipping the scales of calorie balance and resulting in steady\nweight loss that accumulates according to the widely known, but erroneous, 3500 kcal per\nReprint requests: Address requests for reprints to: Kevin D. Hall, PhD, National Institute of Diabete"
+  },
+  {
+    "id": "nutrition_nihms851543_4",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "eprint requests: Address requests for reprints to: Kevin D. Hall, PhD, National Institute of Diabetes & Digestive & Kidney Diseases,\n12A South Drive, Room 4007, Bethesda, MD 20892. kevinh@niddk.nih.gov.\nSupplementary Material\nNote: To access the supplementary material accompanying this article, visit the online version of Gastroenterology at\nwww.gastrojournal.org, and at http://dx.doi.org/10.1053/j.gastro.2017.01.052.\nConflicts of interest\nK.D.H. has received funding from the Nutrition Science Initiative to investigate the effects of ketogenic diets on human energy\nexpenditure. K.D.H. also has a patent pending on a method of personalized dynamic feedback control of body weight (US Patent\nApplication No. 13/754,058; assigned to the National Institutes of Health). J.G. has no conflicts of in"
+  },
+  {
+    "id": "nutrition_nihms851543_5",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "lication No. 13/754,058; assigned to the National Institutes of Health). J.G. has no conflicts of interest to disclose.\n\nGastroenterology.\nPublished in final edited form as:\nGastroenterology. 2017 May; 152(7): 1718–1727.e3.\n\n# Page 1\n\npound rule.2,3 Therefore, failure to experience substantial weight loss implies that an\nindividual lacks the willpower to adhere to a modest lifestyle intervention over a sufficient\nperiod of time.\nHowever, this naïve view is incorrect because it considers energy intake and expenditure to\nbe independent parameters that can be adjusted at will and thereafter remain static without\nbeing influenced by homeostatic signals related to weight loss.3 We now understand that\nenergy intake and expenditure are interdependent variables that are dynamically influenced\nby e"
+  },
+  {
+    "id": "nutrition_nihms851543_6",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "that\nenergy intake and expenditure are interdependent variables that are dynamically influenced\nby each other and body weight.4 Attempts to alter energy balance through diet or exercise\nare countered by physiological adaptations that resist weight loss.5\nThis review focuses on our current understanding of the components of human energy\nbalance and the counterbalancing physiological processes that act to resist weight loss.\nFurthermore, we address the question of whether all diet calories are created equal regarding\nthe effects of carbohydrate, fat, and protein on energy balance, body weight, and\ncomposition. Finally, we compare 3 conceptual models of energy balance regulation and\nexamine the implications for human body weight dynamics and the treatment of obesity.\nComponents of Daily Energ"
+  },
+  {
+    "id": "nutrition_nihms851543_7",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": " implications for human body weight dynamics and the treatment of obesity.\nComponents of Daily Energy Expenditure\nThere are 3 components of daily energy expenditure: the thermic effect of food, physical\nactivity expenditure, and resting energy expenditure (REE) (Figure 1A).\nThermic Effect of Food\nThe smallest component of daily energy expenditure in humans is the thermic effect of food\n(also called diet induced thermogenesis or specific dynamic action), which is defined as the\nincrease of metabolic rate observed for several hours following the ingestion of a meal.6,7\nThe thermic effect of food is believed to represent the energy cost of digestion, absorption,\nstorage, and metabolic fate of dietary macronutrients.7 While the precise mechanisms\nunderlying the thermic effect of food are not f"
+  },
+  {
+    "id": "nutrition_nihms851543_8",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "ietary macronutrients.7 While the precise mechanisms\nunderlying the thermic effect of food are not fully understood, there is a clear macronutrient\nhierarchy, with protein causing a greater energy expenditure increment than carbohydrate.\nwhich is greater than that of fat.7 For typical diet compositions, the thermic effect of food is\napproximated to be about 10% of energy intake (Figure 1A).\nResting Energy Expenditure\nREE corresponds to the energy expended when not performing physical work and is\ntypically the largest contribution to daily energy expenditure. Contrary to popular belief,\npeople with obesity generally have a higher absolute REE (Figure 1A).8 It has long been\nrecognized that fat-free mass comprises the metabolically active tissues of the body and\ntherefore contributes more to "
+  },
+  {
+    "id": "nutrition_nihms851543_9",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "-free mass comprises the metabolically active tissues of the body and\ntherefore contributes more to REE than body fat. Fat-free mass is elevated in obesity, along\nwith body fat, resulting in increased REE compared with lean subjects (Figure 1B). Across a\nwide range of weights, REE is linearly related to both fat-free mass and body fat,8 such that\nthe elevated REE with obesity is generally in line with what is expected for the body weight\nand composition.\nHall and Guo Page 2\nGastroenterology.\n\n# Page 2\n\nWhile fat-free mass, and to a lesser extent fat mass, are good predictors of REE, these\nvariables explain only about 70% of inter-individual REE variability, such that for a given\nbody composition the REE residual standard deviation is about 300 kcal/d.8 Because the\norgans that contribute to"
+  },
+  {
+    "id": "nutrition_nihms851543_10",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "tion the REE residual standard deviation is about 300 kcal/d.8 Because the\norgans that contribute to the fat-free mass have a wide range of metabolic rates,9 some of the\nresidual REE variability after accounting for body fat and fat-free mass may be caused by\nvariations in organ masses. Magnetic resonance imaging methodologies have been used to\nquantify organ sizes and REE prediction equations that sum the individual metabolic rates of\nvarious organs explain about 80% of the REE variability.10,11\nAnother potentially important contributor to REE involves fluxes through various energyrequiring metabolic pathways. Major macronutrient fluxes such as gluconeogenesis, de novo\nlipogenesis, triglyceride synthesis, and protein turnover all require energy and these flux\nrates can be significantly in"
+  },
+  {
+    "id": "nutrition_nihms851543_11",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "ride synthesis, and protein turnover all require energy and these flux\nrates can be significantly influenced by both the energy content of the diet as well as its\ncomposition.12\nPhysical Activity Expenditure\nPhysical activity expenditure can be subdivided into volitional exercise and the activities of\ndaily living, also called spontaneous physical activity or non-exercise activity\nthermogenesis. The energy expended in physical activities is determined by their duration\nand intensity in proportion to overall body weight.13 Thus, despite typically being less\nphysically active, people with obesity often have similar daily energy costs for physical\nactivity as those without obesity (Figure 1A)14 and physical activity energy expenditure\ndeclines with weight loss unless its quantity or intensity"
+  },
+  {
+    "id": "nutrition_nihms851543_12",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": " and physical activity energy expenditure\ndeclines with weight loss unless its quantity or intensity increases to compensate.\nInfluence of Exercise on Energy Expenditure and Body Weight\nWhile often considered a first-line treatment option for obesity, large amounts of exercise are\nrequired to result in a modest degree of average weight loss.15 However, exercise results in\npreferential loss of body fat and maintenance of fat-free mass compared with diet-induced\nweight loss.16,17 but exercise does not appear to prevent the slowing of metabolic rate during\nweight loss.18 Exercise interventions typically result in less average weight loss than\nexpected, based on the exercise calories expended, and individual weight changes are highly\nvariable even when exercise is supervised to ensure adherenc"
+  },
+  {
+    "id": "nutrition_nihms851543_13",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "nd individual weight changes are highly\nvariable even when exercise is supervised to ensure adherence.19 A likely explanation for\nthese observations is that the energy expended during exercise is variably compensated by\nchanges in food intake and non-exercise physical activity behaviors.19\nThe recently proposed “constrained energy expenditure model” provides an alternative\nexplanation for why exercise interventions often result in minimal weight loss.20 According\nto this model, daily energy expenditure is regulated and increments in physical activity\nexpenditure are predicted to be offset by decreases in non-physical activity expenditure (ie,\nthe thermic effect of food or REE) resulting in minimal energy imbalance. The experimental\nbasis of the constrained energy expenditure model in human"
+  },
+  {
+    "id": "nutrition_nihms851543_14",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "inimal energy imbalance. The experimental\nbasis of the constrained energy expenditure model in humans includes cross-sectional data\ndemonstrating that free-living daily energy expenditure adjusted for body composition is\nrelatively constant for a wide range of physical activity levels measured using\naccelerometry.21,22 Furthermore, longitudinal data have found that progressive increases in\nHall and Guo Page 3\nGastroenterology.\n\n# Page 3\n\nthe quantity and intensity of aerobic exercise training do not lead to corresponding increases\nin total daily energy expenditure in ad libitum-fed men and women.23\nHowever, in contrast to the predictions of the constrained energy expenditure model,\nexercise training does not lead to decreased REE under conditions of weight stability24 and\nREE adjusted for "
+  },
+  {
+    "id": "nutrition_nihms851543_15",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "training does not lead to decreased REE under conditions of weight stability24 and\nREE adjusted for body composition is not different between people with a wide range of\nphysical activity levels.21 Furthermore, exercise may actually increase the thermic effect of\nfood.6 Therefore, when physical activity increases via exercise, the non-physical activity\ncomponents of daily energy expenditure do not decrease as predicted by the constrained\nmodel.\nFinally, increments in daily energy expenditure shortly after starting an exercise program can\nbe greater than the expected energy cost of the exercise.23 Subsequent failure to increase\ndaily expenditure as training progresses, despite increasing exercise volume and intensity,\nmay be because of improvements in biomechanical efficiency that decrease "
+  },
+  {
+    "id": "nutrition_nihms851543_16",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "cise volume and intensity,\nmay be because of improvements in biomechanical efficiency that decrease the energy cost\nof exercise.23\nInfluence of Energy Intake on Energy Expenditure\nReductions in energy intake lead to decreased energy expenditure to a degree that is often\ngreater than expected based on changes in body composition or the thermic effect of\nfood.25,26 This phenomenon has been called adaptive thermogenesis or metabolic adaptation\nand it may continue for years after energy balance is reestablished at a lower weight,27–29\nalthough controversy remains regarding its persistence.30,31 The mechanistic basis of\nmetabolic adaptation is unclear, but it may be related to reduced sympathetic drive or\nblunted thyroid activity, possibly as a result of decreased leptin.25,32–36\nExperimental q"
+  },
+  {
+    "id": "nutrition_nihms851543_17",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": " drive or\nblunted thyroid activity, possibly as a result of decreased leptin.25,32–36\nExperimental quantification of metabolic adaptation depends on calculating the residual\ndifference between measured and expected values of energy expenditure.37,38 However, the\nexpected energy expenditure is typically calculated based on observed body fat and fat-free\nmass changes and typically ignores factors like organ sizes or altered fluxes through energyrequiring metabolic pathways. Whether such considerations can explain the observed\nadaptations in energy expenditure is presently unclear.\nMetabolic adaptation can be interpreted teleologically as the body’s response to a perceived\nstate of starvation by decreasing the energy cost of living in an attempt to prolong life given\nthe body’s finite energy "
+  },
+  {
+    "id": "nutrition_nihms851543_18",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "y decreasing the energy cost of living in an attempt to prolong life given\nthe body’s finite energy stores. In this context, it is interesting that the robustness of\nmetabolic adaptation does not appear to be attenuated by the quantity of stored energy such\nthat people with obesity, who have very large energy reserves, experience decreases in\nenergy expenditure that are similar in magnitude to those having dramatically fewer energy\nreserves (Figure 1C).39\nIn contrast to the growing consensus supporting the existence of important metabolic\nadaptations to underfeeding and weight loss, the adaptive response to over-feeding and\nweight gain is less clear.26 While some investigators have observed that overfeeding induces\nhighly variable increases in spontaneous physical activity expenditure that"
+  },
+  {
+    "id": "nutrition_nihms851543_19",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "that overfeeding induces\nhighly variable increases in spontaneous physical activity expenditure that may be greater\nthan expected based on the observed weight changes,39–41 others have found that the\nHall and Guo Page 4\nGastroenterology.\n\n# Page 4\n\nincreased energy expenditure associated with overfeeding is in accord with the expected\nincreased thermic effect of food, along with increased REE and physical activity expenditure\nbased on the observed weight gain.14,26\nThe effect of energy intake changes on energy expenditure and body weight have recently\nbeen incorporated within dynamic mathematical models in both adults42 and children43 to\nreplace the static “calories in, calories out” model that erroneously assumed independence of\nenergy intake and expenditure.44 Mathematical models have be"
+  },
+  {
+    "id": "nutrition_nihms851543_20",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "hat erroneously assumed independence of\nenergy intake and expenditure.44 Mathematical models have been used to calculate the socalled “energy gap” required to reverse obesity, which amounts to about 200–250 kcal/d for\nboth adults and children at the population level,44 and have been used to estimate the\npotential effects of policy changes on overweight and obesity prevalence.45\nInfluence of Dietary Macronutrients on Energy Balance and Body\nComposition\nThe energy released during carbohydrate, fat, and protein oxidation within the body can be\nequated to the energy derived from their combustion in a bomb calorimeter, with suitable\ncorrections for the differing thermodynamic constraints and the end products of the\nreactions. In other words, “a calorie is a calorie” when macronutrients are oxid"
+  },
+  {
+    "id": "nutrition_nihms851543_21",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "end products of the\nreactions. In other words, “a calorie is a calorie” when macronutrients are oxidized either in\nthe bomb calorimeter through combustion or via the intricate biochemical pathways of\noxidative phosphorylation inside cells.\nHowever, thermodynamic arguments alone do not necessarily imply that “a calorie is a\ncalorie” when it comes to the effects of diet composition on body weight or composition.\nIsocaloric diets differing in macronutrient composition may result in preferential partitioning\nof energy storage toward body fat and away from body protein. Such energy partitioning\ndifferences over the long term will alter the proportions of body fat and fat-free mass and\nthereby influence energy expenditure. Dietary protein in particular is known to positively\ninfluence fat-free m"
+  },
+  {
+    "id": "nutrition_nihms851543_22",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "luence energy expenditure. Dietary protein in particular is known to positively\ninfluence fat-free mass during weight loss46,47 and weight gain.48 A recent meta-analysis\nfound that dietary protein resulted in a small positive influence on REE during reducedcalorie, low-fat diets amounting to about 150 kcal/d.49 Overfeeding with higher protein diets\nalso led to small increases in REE and increases in daily energy expenditure,48 as did weight\nloss maintenance diets with higher protein.50\nWhile higher protein diets appear to offer advantages regarding energy expenditure and body\ncomposition, the relative effects of dietary carbohydrate and fat are debated. According to\nthe popular “carbohydrate-insulin model” of obesity, diets high in carbohydrate are\nconjectured to be particularly fattening "
+  },
+  {
+    "id": "nutrition_nihms851543_23",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "-insulin model” of obesity, diets high in carbohydrate are\nconjectured to be particularly fattening because of their propensity to elevate insulin\nsecretion, thereby directing fat toward storage in adipose tissue and away from oxidation by\nmetabolically active tissues, leading to an adaptive decrease in metabolic rate.51,52 In\ncontrast, because dietary fat does not stimulate insulin secretion, isocaloric diets lower in\ncarbohydrate but higher in fat reduce insulin secretion, thereby promoting fat loss from\nadipose tissue, making free-fatty acids available for use by metabolically active tissues. The\nincreased fuel availability theoretically leads to increased metabolic rate with a net\n“metabolic advantage” of very low carbohydrate diets amounting to as much as 400–600\nkcal/d of additional "
+  },
+  {
+    "id": "nutrition_nihms851543_24",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "olic advantage” of very low carbohydrate diets amounting to as much as 400–600\nkcal/d of additional energy expenditure.53\nHall and Guo Page 5\nGastroenterology.\n\n# Page 5\n\nSuch large increases in daily energy expenditure could explain why low carbohydrate diets\nthat are unrestricted in calories typically result in greater short-term weight loss compared\nwith reduced energy, low-fat diets.54–56 Indeed, the original Atkins diet that restricted\ndietary carbohydrates, but not calories, promised its followers a “high calorie way to stay\nthin forever” as a result of increased energy expenditure.57 Unfortunately, the experimental\nevidence does not support such a metabolic advantage.\nWe conducted a systematic review and meta-analysis of the effects on daily energy\nexpenditure and body fat of isocal"
+  },
+  {
+    "id": "nutrition_nihms851543_25",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "ystematic review and meta-analysis of the effects on daily energy\nexpenditure and body fat of isocaloric diets differing in their fraction of carbohydrate to fat\nbut with equal protein. To minimize confounding by dietary nonadherence, we included only\ncontrolled feeding studies where all food was provided to the subjects. We found 32 studies\nrepresenting 563 subjects matching our inclusion criteria with dietary carbohydrate ranging\nfrom 1%–83% and dietary fat ranging from 4%–84% of total calories (see Supplementary\nMaterials).\nFigure 2A shows the daily energy expenditure differences between isocaloric diets with\nequal protein but differing in the ratio of carbohydrate to fat. The pooled weighted mean\ndifference in energy expenditure was 26 kcal/d (P <.0001) greater with lower fat diets.\nFi"
+  },
+  {
+    "id": "nutrition_nihms851543_26",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "hted mean\ndifference in energy expenditure was 26 kcal/d (P <.0001) greater with lower fat diets.\nFigure 2B shows differences in the rate of body fat change between diets with the pooled\nweighted mean difference of 16 g/d (P <.0001) greater body fat loss in favor of the lower fat\ndiets. These results are in the opposite direction to the predictions of the carbohydrateinsulin model, but the effect sizes are so small as to be physiologically meaningless. In other\nwords, for all practical purposes “a calorie is a calorie” when it comes to body fat and\nenergy expenditure differences between controlled isocaloric diets varying in the ratio of\ncarbohydrate to fat.\nNevertheless, it is possible that isocaloric diets differing in carbohydrate and fat may have\noverall health effects unrelated to tot"
+  },
+  {
+    "id": "nutrition_nihms851543_27",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": " isocaloric diets differing in carbohydrate and fat may have\noverall health effects unrelated to total body fat or energy expenditure.58 For example,\ndietary carbohydrates may play an important role in determining the anatomic location of\nbody fat stores, with diets higher in refined carbohydrate possibly leading to increased\nvisceral and liver fat.59,60\nDiet composition may also influence energy intake when the amount of the diet consumed is\nnot controlled. For example, increasing dietary fat results in greater energy intake61,62 and\ndecreasing dietary fat has the opposite effect.63,64 However, very low carbohydrate, high-fat\ndiets may reduce appetite by promoting an increase in circulating ketones,65 although the\nmechanism for this effect is unclear.66 Furthermore, low carbohydrate diets"
+  },
+  {
+    "id": "nutrition_nihms851543_28",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": " ketones,65 although the\nmechanism for this effect is unclear.66 Furthermore, low carbohydrate diets often increase\nprotein intake, which may independently increase satiety and decrease overall energy\nintake.46,47 These effects may help explain the short-term benefits for weight loss of lower\ncarbohydrate, higher protein diets.54–56\nHowever, long-term weight loss diet studies targeting different macronutrients demonstrate\nsimilar mean body weight trajectories corresponding to a similar exponential decay of diet\nadherence with all diets.67 The reasons for the long-term erosion of diet adherence are not\nwell understood. Likely factors include practical challenges in sustaining diet changes in the\nface of engrained food habits developed over years of living in an obesogenic\nHall and Guo Page "
+  },
+  {
+    "id": "nutrition_nihms851543_29",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "the\nface of engrained food habits developed over years of living in an obesogenic\nHall and Guo Page 6\nGastroenterology.\n\n# Page 6\n\nenvironment,68 as well as the likelihood that feedback control of energy intake makes it\ndifficult to persistently resist an ever-increasing appetite as weight is lost.\nFeedback Control of Energy Intake\nWhile there is a growing consensus that human energy expenditure is actively controlled to\nresist weight loss,26 the evidence for active control of energy intake is less clear.\nObservations regarding long-term precision of calorie balance and relative weight stability\nhave been offered in support of energy intake feedback control, but these observations also\nhave alternative explanations69–71 relying solely on energy expenditure adaptations and\ncorrespond to a “"
+  },
+  {
+    "id": "nutrition_nihms851543_30",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "alternative explanations69–71 relying solely on energy expenditure adaptations and\ncorrespond to a “settling point” model of body weight regulation.72\nHowever, the molecular mechanisms of appetite regulation strongly suggest that feedback\ncontrol of energy intake acts as part of a complex neurobiological system integrating social\nand environmental influences with homeostatic signals related to body weight, such as\nleptin, to control both short-term feeding behavior and long-term energy intake.73,74\nEstablishing that energy intake is under active control in humans is challenging under\nlaboratory conditions and extremely difficult under free-living conditions. Accurate\nmeasurements of energy intake in the laboratory have demonstrated that diet manipulations\ncan lead to short-term compensator"
+  },
+  {
+    "id": "nutrition_nihms851543_31",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "ntake in the laboratory have demonstrated that diet manipulations\ncan lead to short-term compensatory changes in energy intake.61,62,75,76 and hyperphagia\nhas been demonstrated following experimental semi-starvation77 and short-term\nunderfeeding,78–80 possibly resulting from homeostatic signals arising from loss of both\nbody fat and lean tissues.81,82 However, these results cannot be readily extrapolated to the\nlong time scales associated with regulation of human energy balance in the real world.83\nIndeed, free-living energy intake fluctuates widely from day to day and exhibits little shortterm correlation with energy expenditure or body weight.69,84\nTherefore, investigating the control of energy intake requires obtaining accurate food intake\nmeasurements in free-living people over long ti"
+  },
+  {
+    "id": "nutrition_nihms851543_32",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "nergy intake requires obtaining accurate food intake\nmeasurements in free-living people over long time scales, which has been a major\nchallenge.85–87 Furthermore, measuring the strength of the energy intake feedback circuit\nrequires a means of covertly perturbing energy expenditure over extended time periods and\nmeasuring the resulting energy intake response. These problems were recently addressed and\nthe strength of the long-term energy intake feedback control circuit was quantified for the\nfirst time in humans.88\nA validated mathematical method89 using repeated body weight measurements calculated\nthe long-term changes in energy intake in patients with type 2 diabetes who were treated for\n1 year with an inhibitor of the renal sodium glucose transporter type-2, causing a substantial\nincrea"
+  },
+  {
+    "id": "nutrition_nihms851543_33",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": " year with an inhibitor of the renal sodium glucose transporter type-2, causing a substantial\nincrease in the amount of glucose excreted in the urine.88 The loss of glucose calories\noccurred without the subjects being directly aware of the calorie deficit and resulted in\ngradual weight loss. The subjects were found to progressively increase average energy intake\nby about 100 kcal/d per kilogram of lost weight – an effect more than 3-fold larger than the\ncorresponding energy expenditure adaptations to weight loss.88\nHall and Guo Page 7\nGastroenterology.\n\n# Page 7\n\nStatic, Settling Point, and Set-Point Models of Human Body Weight\nRegulation\nLong-term feedback control of energy intake and expenditure has profound implications for\nbody weight regulation and our understanding of obesity treatme"
+  },
+  {
+    "id": "nutrition_nihms851543_34",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "diture has profound implications for\nbody weight regulation and our understanding of obesity treatment. Without such feedback\ncontrol mechanisms, body weight dynamics correspond to the static “calories in, calories\nout” model, where energy intake and expenditure are independent variables and weight\nchanges, or related homeostatic signals like leptin, are assumed to have negligible effects on\nenergy intake or expenditure.\nFigure 3A illustrates the body weight dynamics of the static model simulating a 90-kg man\neating and expending 3200 kcal/d for 1 year, followed by a year of cutting 300 kcal from his\ndaily diet and then a final year consuming the original 3200 kcal/d diet. The horizontal lines\ndepicted in the top panel of Figure 3A indicate that energy intake and expenditure have no\nrelati"
+  },
+  {
+    "id": "nutrition_nihms851543_35",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "es\ndepicted in the top panel of Figure 3A indicate that energy intake and expenditure have no\nrelationship to weight, and the solid lines overlap in energy balance. When intake is reduced\n(dashed line, top panel) energy imbalance is determined by the distance to the expenditure\nline and is equal at all weights (top panel). The constant energy imbalance (middle panel)\nresults in a constant rate of weight loss (bottom panel) until resumption of the original 3200\nkcal/d diet reestablishes energy balance at a stable lower body weight for the final year.\nBecause expenditure is erroneously considered to be constant, the static model provides\nunrealistic predictions for the expected weight loss for a given diet intervention.\nFurthermore, the static model ignores the difficulties of maintaining lo"
+  },
+  {
+    "id": "nutrition_nihms851543_36",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": " a given diet intervention.\nFurthermore, the static model ignores the difficulties of maintaining lost weight because the\nsame baseline energy intake allows for maintenance of the reduced weight. Despite such\nobvious errors, the static model continues to be used both individuals2 and populations44 to\npredict weight changes.\nFigure 3B illustrates the negative feedback effect of increasing energy expenditure with\nbody weight (with a slope of about 20–30 kcal/d per kg39,42 as depicted in the top panel)\ncorresponding to a “settling point” model.72 The stable body weight is determined by the\nintersection between the increasing expenditure line and the horizontal energy intake line\nassumed to be weight independent. When the same 300 kcal/d is cut from the diet,\ncorresponding to a shift of the en"
+  },
+  {
+    "id": "nutrition_nihms851543_37",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "eight independent. When the same 300 kcal/d is cut from the diet,\ncorresponding to a shift of the energy intake line downwards (dashed line, top panel), energy\nimbalance decreases (middle panel) along with weight (bottom panel) in an exponential\nfashion and it takes years to equilibrate at a stable lower weight.42 Once the energy intake\nline is shifted upwards to baseline, weight regain ensues with an exponential time course\nmirroring the weight loss phase.\nFinally, Figure 3C illustrates the “set point” model that includes feedback control of both\nenergy intake and expenditure,72 with energy intake being a decreasing function of weight\n(with a slope of about -100 kcal/d per kg88 as shown in the top panel). An intervention that\nshifts the energy intake line downwards by the same 300 kcal/d "
+  },
+  {
+    "id": "nutrition_nihms851543_38",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "the top panel). An intervention that\nshifts the energy intake line downwards by the same 300 kcal/d (dashed line, top panel) now\nresults in a transient decrease in energy intake that subsequently increases exponentially\nbecause of escalating appetite as weight decreases along with a parallel decline in energy\nexpenditure (middle panel).\nHall and Guo Page 8\nGastroenterology.\n\n# Page 8\n\nThe time scale to equilibrate at the lower weight (bottom panel) is greatly abbreviated\ncompared with the settling point model, resulting in a weight loss plateau after about 6\nmonths with no further weight loss despite continued intervention. This aligns closely to the\ntypical weight plateau after about 6 months of starting a weight loss intervention.90 After the\nintervention is stopped, energy intake increa"
+  },
+  {
+    "id": "nutrition_nihms851543_39",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "hs of starting a weight loss intervention.90 After the\nintervention is stopped, energy intake increases transiently above baseline, similar to what\nhas been observed after periods of enforced calorie restriction,77–80 and weight is promptly\nregained.\nIn addition to the long-term feedback control of energy intake mediated by homeostatic\nsignals related to body weight and composition, eating behavior is also strongly influenced\nby social and environmental influences in conjunction with learned eating habits.73,74 While\nprevious conceptions of the set point model were thought to be incompatible with nonhomeostatic influences on food intake and body weight,72 such effects can be naturally\nincorporated by altering the position or slope of the energy intake line depicted in Figure 3A\nand the def"
+  },
+  {
+    "id": "nutrition_nihms851543_40",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "orated by altering the position or slope of the energy intake line depicted in Figure 3A\nand the defended body weight will be adjusted accordingly.\nUnfortunately, we do not yet know the quantitative effects of non-homeostatic influences on\nthe set point model, but there is likely to be a wide degree of individual variation. Some\npeople may experience substantial changes in the energy intake, along with correspondingly\nlarge weight changes, whereas others will be more resistant. Re-engineering the social and\nfood environments may facilitate shifts in the energy intake line, but losing weight and\nkeeping it off using willpower alone to reduce energy intake is difficult because considerable\neffort is required to persistently resist the physiological adaptations that act to increase\nappetite a"
+  },
+  {
+    "id": "nutrition_nihms851543_41",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "ort is required to persistently resist the physiological adaptations that act to increase\nappetite and suppress energy expenditure.\nSupplementary Material\nRefer to Web version on PubMed Central for supplementary material.\nAcknowledgments\nFunding\nThis research was supported by the Intramural Research Program of the National Institutes of Health, National\nInstitute of Diabetes & Digestive & Kidney Diseases.\nAbbreviations used in this paper\nREE resting energy expenditure\nReferences\n1. Levine DI. The curious history of the calorie in U.S. policy: a tradition of unfulfilled promises. Am J\nPrev Med. 2017; 52:125–129. [PubMed: 27712946]\n2. Guth E. JAMA patient page. Healthy weight loss. JAMA. 2014; 312:974. [PubMed: 25182116]\n3. Hall KD, Chow CC. Why is the 3500 kcal per pound weight loss rule wr"
+  },
+  {
+    "id": "nutrition_nihms851543_42",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": " 312:974. [PubMed: 25182116]\n3. Hall KD, Chow CC. Why is the 3500 kcal per pound weight loss rule wrong? Int J Obes (Lond).\n2013; 37:1614.\n4. Hall KD, Heymsfield SB, Kemnitz JW, et al. Energy balance and its components: implications for\nbody weight regulation. Am J Clin Nutr. 2012; 95:989–994. [PubMed: 22434603]\nHall and Guo Page 9\nGastroenterology.\n\n# Page 9\n\n5. Ochner CN, Tsai AG, Kushner RF, et al. Treating obesity seriously: when recommendations for\nlifestyle change confront biological adaptations. Lancet Diabetes Endocrinol. 2015; 3:232–234.\n[PubMed: 25682354]\n6. de Jonge L, Bray GA. The thermic effect of food and obesity: a critical review. Obes Res. 1997;\n5:622–631. [PubMed: 9449148]\n7. Westerterp KR. Diet induced thermogenesis. Nutr Metab (Lond). 2004; 1:5. [PubMed: 15507147]\n8. Ne"
+  },
+  {
+    "id": "nutrition_nihms851543_43",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "7. Westerterp KR. Diet induced thermogenesis. Nutr Metab (Lond). 2004; 1:5. [PubMed: 15507147]\n8. Nelson KM, Weinsier RL, Long CL, et al. Prediction of resting energy expenditure from fat-free\nmass and fat mass. Am J Clin Nutr. 1992; 56:848–856. [PubMed: 1415003]\n9. Elia, M. Organ and tissue contribution to metabolic rate. In: Kinney, JM., Tucker, HN., editors.\nEnergy metabolism: tissue determinants and cellular corollaries. New York: Raven Press; 1992. p.\n61-79.\n10. Gallagher D, Belmonte D, Deurenberg P, et al. Organ-tissue mass measurement allows modeling of\nREE and metabolically active tissue mass. Am J Physiol. 1998; 275:E249–E258. [PubMed:\n9688626]\n11. Muller MJ, Bosy-Westphal A, Kutzner D, et al. Metabolically active components of fat-free mass\nand resting energy expenditure in human"
+  },
+  {
+    "id": "nutrition_nihms851543_44",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "r D, et al. Metabolically active components of fat-free mass\nand resting energy expenditure in humans: recent lessons from imaging technologies. Obes Rev.\n2002; 3:113–122. [PubMed: 12120418]\n12. Hall KD. Predicting metabolic adaptation, body weight change, and energy intake in humans. Am J\nPhysiol Endocrinol Metab. 2010; 298:E449–E466. [PubMed: 19934407]\n13. Schoeller DA, Jefford G. Determinants of the energy costs of light activities: inferences for\ninterpreting doubly labeled water data. Int J Obes (Lond). 2002; 26:97–101.\n14. Westerterp KR. Physical activity, food intake, and body weight regulation: insights from doubly\nlabeled water studies. Nutr Rev. 2010; 68:148–154. [PubMed: 20384845]\n15. Donnelly JE, Blair SN, Jakicic JM, et al. American College of Sports Medicine position stand.\nA"
+  },
+  {
+    "id": "nutrition_nihms851543_45",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "\n15. Donnelly JE, Blair SN, Jakicic JM, et al. American College of Sports Medicine position stand.\nAppropriate physical activity intervention strategies for weight loss and prevention of weight\nregain for adults. Med Sci Sports Exerc. 2009; 41:459–471. [PubMed: 19127177]\n16. Washburn RA, Szabo AN, Lambourne K, et al. Does the method of weight loss effect long-term\nchanges in weight, body composition or chronic disease risk factors in overweight or obese\nadults?. A systematic review. PLoS One. 2014; 9:e109849. [PubMed: 25333384]\n17. Weinheimer EM, Sands LP, Campbell WW. A systematic review of the separate and combined\neffects of energy restriction and exercise on fat-free mass in middle-aged and older adults:\nimplications for sarcopenic obesity. Nutr Rev. 2010; 68:375–388. [PubMed: 20591106"
+  },
+  {
+    "id": "nutrition_nihms851543_46",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "and older adults:\nimplications for sarcopenic obesity. Nutr Rev. 2010; 68:375–388. [PubMed: 20591106]\n18. Johanssen DL, Knuth ND, Huizenga R, et al. Metabolic slowing with massive weight loss despite\npreservation of fat-free mass. J Clin Endocrinol Metab. 2012; 97:2489–2496. [PubMed: 22535969]\n19. Melanson EL, Keadle SK, Donnelly JE, et al. Resistance to exercise-induced weight loss:\ncompensatory behavioral adaptations. Med Sci Sports Exerc. 2013; 45:1600–1609. [PubMed:\n23470300]\n20. Pontzer H. Constrained total energy expenditure and the evolutionary biology of energy balance.\nExerc Sport Sci Rev. 2015; 43:110–116. [PubMed: 25906426]\n21. Pontzer H, Durazo-Arvizu R, Dugas LR, et al. Constrained total energy expenditure and metabolic\nadaptation to physical activity in adult humans. Curr Bio"
+  },
+  {
+    "id": "nutrition_nihms851543_47",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "ned total energy expenditure and metabolic\nadaptation to physical activity in adult humans. Curr Biol. 2016; 26:410–417. [PubMed:\n26832439]\n22. Pontzer H, Raichlen DA, Wood BM, et al. Hunter-gatherer energetics and human obesity. PLoS\nOne. 2012; 7:e40503. [PubMed: 22848382]\n23. Westerterp KR. Alterations in energy balance with exercise. Am J Clin Nutr. 1998; 68:970S–974S.\n[PubMed: 9771881]\n24. Wilmore JH, Stanforth PR, Hudspeth LA, et al. Alterations in resting metabolic rate as a\nconsequence of 20 wk of endurance training: the HERITAGE Family Study. Am J Clin Nutr. 1998;\n68:66–71. [PubMed: 9665098]\n25. Rosenbaum M, Leibel RL. Adaptive thermogenesis in humans. Int J Obes (Lond). 2010; 34(Suppl\n1):S47–S55. [PubMed: 20935667]\n26. Westerterp KR. Metabolic adaptations to over–and underfeeding–"
+  },
+  {
+    "id": "nutrition_nihms851543_48",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "pl\n1):S47–S55. [PubMed: 20935667]\n26. Westerterp KR. Metabolic adaptations to over–and underfeeding–still a matter of debate? Eur J\nClin Nutr. 2013; 67:443–445. [PubMed: 23232582]\nHall and Guo Page 10\nGastroenterology.\n\n# Page 10\n\n27. Camps SG, Verhoef SP, Westerterp KR. Weight loss, weight maintenance, and adaptive\nthermogenesis. Am J Clin Nutr. 2013; 97:990–994. [PubMed: 23535105]\n28. Fothergill E, Guo J, Howard L, et al. Persistent metabolic adaptation 6 years after “The Biggest\nLoser” competition. Obesity (Silver Spring). 2016; 24:1612–1619. [PubMed: 27136388]\n29. Rosenbaum M, Hirsch J, Gallagher DA, et al. Long-term persistence of adaptive thermogenesis in\nsubjects who have maintained a reduced body weight. Am J Clin Nutr. 2008; 88:906–912.\n[PubMed: 18842775]\n30. Wadden TA, Foster GD,"
+  },
+  {
+    "id": "nutrition_nihms851543_49",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": " reduced body weight. Am J Clin Nutr. 2008; 88:906–912.\n[PubMed: 18842775]\n30. Wadden TA, Foster GD, Letizia KA, et al. Long-term effects of dieting on resting metabolic rate in\nobese out-patients. JAMA. 1990; 264:707–711. [PubMed: 2374273]\n31. Weinsier RL, Nagy TR, Hunter GR, et al. Do adaptive changes in metabolic rate favor weight\nregain in weight-reduced individuals? An examination of the set-point theory. Am J Clin Nutr.\n2000; 72:1088–1094. [PubMed: 11063433]\n32. Lecoultre V, Ravussin E, Redman LM. The fall in leptin concentration is a major determinant of\nthe metabolic adaptation induced by caloric restriction independently of the changes in leptin\ncircadian rhythms. J Clin Endocrinol Metab. 2011; 96:E1512–E1516. [PubMed: 21778216]\n33. Rosenbaum M, Goldsmith R, Bloomfield D, et al. L"
+  },
+  {
+    "id": "nutrition_nihms851543_50",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "Metab. 2011; 96:E1512–E1516. [PubMed: 21778216]\n33. Rosenbaum M, Goldsmith R, Bloomfield D, et al. Low-dose leptin reverses skeletal muscle,\nautonomic, and neuroendocrine adaptations to maintenance of reduced weight. J Clin Invest. 2005;\n115:3579–3586. [PubMed: 16322796]\n34. Rosenbaum M, Murphy EM, Heymsfield SB, et al. Low dose leptin administration reverses effects\nof sustained weight-reduction on energy expenditure and circulating concentrations of thyroid\nhormones. J Clin Endocrinol Metab. 2002; 87:2391–2394. [PubMed: 11994393]\n35. Rosenbaum M, Nicolson M, Hirsch J, et al. Effects of weight change on plasma leptin\nconcentrations and energy expenditure. J Clin Endocrinol Metab. 1997; 82:3647–3654. [PubMed:\n9360521]\n36. Weinsier RL, Hunter GR, Zuckerman PA, et al. Energy expenditure and "
+  },
+  {
+    "id": "nutrition_nihms851543_51",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "647–3654. [PubMed:\n9360521]\n36. Weinsier RL, Hunter GR, Zuckerman PA, et al. Energy expenditure and free-living physical\nactivity in black and white women: comparison before and after weight loss. Am J Clin Nutr.\n2000; 71:1138–1146. [PubMed: 10799376]\n37. Galgani JE, Santos JL. Insights about weight loss-induced metabolic adaptation. Obesity (Silver\nSpring). 2016; 24:277–278. [PubMed: 26813520]\n38. Muller MJ, Bosy-Westphal A. Adaptive thermogenesis with weight loss in humans. Obesity (Silver\nSpring). 2013; 21:218–228. [PubMed: 23404923]\n39. Leibel RL, Rosenbaum M, Hirsch J. Changes in energy expenditure resulting from altered body\nweight. N Engl J Med. 1995; 332:621–628. [PubMed: 7632212]\n40. Levine JA, Eberhardt NL, Jensen MD. Role of non-exercise activity thermogenesis in resistance to\nf"
+  },
+  {
+    "id": "nutrition_nihms851543_52",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": ". Levine JA, Eberhardt NL, Jensen MD. Role of non-exercise activity thermogenesis in resistance to\nfat gain in humans. Science. 1999; 283:212–214. [PubMed: 9880251]\n41. Levine JA, Lanningham-Foster LM, McCrady SK, et al. Interindividual variation in posture\nallocation: possible role in human obesity. Science. 2005; 307:584–586. [PubMed: 15681386]\n42. Hall KD, Sacks G, Chandramohan D, et al. Quantification of the effect of energy imbalance on\nbodyweight. Lancet. 2011; 378:826–837. [PubMed: 21872751]\n43. Hall KD, Butte NF, Swinburn BA, et al. Dynamics of childhood growth and obesity: development\nand validation of a quantitative mathematical model. Lancet Diabetes Endocrinol. 2013; 1:97–105.\n[PubMed: 24349967]\n44. Hall, KD., Gortmaker, SL., Lott, M., et al. From calories to weight change in c"
+  },
+  {
+    "id": "nutrition_nihms851543_53",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "ubMed: 24349967]\n44. Hall, KD., Gortmaker, SL., Lott, M., et al. From calories to weight change in children and adults:\nthe state of the science. issue brief. Durham, NC: Healthy Eating Research; 2016.\n45. Lin BH, Smith TA, Lee JY, et al. Measuring weight outcomes for obesity intervention strategies:\nthe case of a sugar-sweetened beverage tax. Econ Hum Biol. 2011; 9:329–341. [PubMed:\n21940223]\n46. Leidy HJ, Clifton PM, Astrup A, et al. The role of protein in weight loss and maintenance. Am J\nClin Nutr. 2015; 101:1320S–1329S.\n47. Westerterp-Plantenga MS, Nieuwenhuizen A, Tome D, et al. Dietary protein, weight loss, and\nweight maintenance. Annu Rev Nutr. 2009; 29:21–41. [PubMed: 19400750]\n48. Bray GA, Smith SR, de Jonge L, et al. Effect of dietary protein content on weight gain, energy\nexpen"
+  },
+  {
+    "id": "nutrition_nihms851543_54",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "Bray GA, Smith SR, de Jonge L, et al. Effect of dietary protein content on weight gain, energy\nexpenditure, and body composition during overeating: a randomized controlled trial. JAMA. 2012;\n307:47–55. [PubMed: 22215165]\nHall and Guo Page 11\nGastroenterology.\n\n# Page 11\n\n49. Wycherley TP, Moran LJ, Clifton PM, et al. Effects of energy-restricted high-protein, low-fat\ncompared with standard-protein, low-fat diets: a meta-analysis of randomized controlled trials. Am\nJ Clin Nutr. 2012; 96:1281–1298. [PubMed: 23097268]\n50. Ebbeling CB, Swain JF, Feldman HA, et al. Effects of dietary composition on energy expenditure\nduring weight-loss maintenance. JAMA. 2012; 307:2627–2634. [PubMed: 22735432]\n51. Hall KD. A review of the carbohydrate-insulin model of obesity. Eur J Clin Invest. 2017 In press.\n"
+  },
+  {
+    "id": "nutrition_nihms851543_55",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": ". Hall KD. A review of the carbohydrate-insulin model of obesity. Eur J Clin Invest. 2017 In press.\n52. Ludwig DS, Friedman MI. Increasing adiposity: consequence or cause of overeating? JAMA.\n2014; 311:2167–2168. [PubMed: 24839118]\n53. Fine EJ, Feinman RD. Thermodynamics of weight loss diets. Nutr Metab (Lond). 2004; 1:15.\n[PubMed: 15588283]\n54. Foster GD, Wyatt HR, Hill JO, et al. A randomized trial of a low-carbohydrate diet for obesity. N\nEngl J Med. 2003; 348:2082–2090. [PubMed: 12761365]\n55. Gardner CD, Kiazand A, Alhassan S, et al. Comparison of the Atkins, Zone, Ornish, and LEARN\ndiets for change in weight and related risk factors among overweight pre-menopausal women: the\nA to Z Weight Loss Study: a randomized trial. JAMA. 2007; 297:969–977. [PubMed: 17341711]\n56. Samaha FF, Iqbal "
+  },
+  {
+    "id": "nutrition_nihms851543_56",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "ht Loss Study: a randomized trial. JAMA. 2007; 297:969–977. [PubMed: 17341711]\n56. Samaha FF, Iqbal N, Seshadri P, et al. A low-carbohydrate as compared with a low-fat diet in\nsevere obesity. N Engl J Med. 2003; 348:2074–2081. [PubMed: 12761364]\n57. Atkins, RC, Dr. Atkins’ Diet revolution: the high calorie way to stay thin forever. Bantam Books;\n1973.\n58. Westman EC, Feinman RD, Mavropoulos JC, et al. Low-carbohydrate nutrition and metabolism.\nAm J Clin Nutr. 2007; 86:276–284. [PubMed: 17684196]\n59. Lim JS, Mietus-Snyder M, Valente A, et al. The role of fructose in the pathogenesis of NAFLD and\nthe metabolic syndrome. Nat Rev Gastroenterol Hepatol. 2010; 7:251–264. [PubMed: 20368739]\n60. Schwarz JM, Noworolski SM, Wen MJ, et al. Effect of a high-fructose weight-maintaining diet on\nlipogene"
+  },
+  {
+    "id": "nutrition_nihms851543_57",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "warz JM, Noworolski SM, Wen MJ, et al. Effect of a high-fructose weight-maintaining diet on\nlipogenesis and liver fat. J Clin Endocrinol Metab. 2015; 100:2434–2442. [PubMed: 25825943]\n61. Stubbs RJ, Harbron CG, Murgatroyd PR, et al. Covert manipulation of dietary fat and energy\ndensity: effect on substrate flux and food intake in men eating ad libitum. Am J Clin Nutr. 1995;\n62:316–329. [PubMed: 7625338]\n62. Stubbs RJ, Ritz P, Coward W A, et al. Covert manipulation of the ratio of dietary fat to carbohydrate\nand energy density: effect on food intake and energy balance in free-living men eating ad libitum.\nAm J Clin Nutr. 1995; 62:330–337. [PubMed: 7625339]\n63. Rolls BJ. The relationship between dietary energy density and energy intake. Physiol Behav. 2009;\n97:609–615. [PubMed: 19303887]\n64."
+  },
+  {
+    "id": "nutrition_nihms851543_58",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "en dietary energy density and energy intake. Physiol Behav. 2009;\n97:609–615. [PubMed: 19303887]\n64. Williams RA, Roe LS, Rolls BJ. Comparison of three methods to reduce energy density. Effects on\ndaily energy intake. Appetite. 2013; 66:75–83. [PubMed: 23523752]\n65. Gibson AA, Seimon RV, Lee CM, et al. Do ketogenic diets really suppress appetite? A systematic\nreview and meta-analysis. Obes Rev. 2015; 16:64–76. [PubMed: 25402637]\n66. Paoli A, Bosco G, Camporesi EM, et al. Ketosis, ketogenic diet and food intake control: a complex\nrelationship. Front Psychol. 2015; 6:27. [PubMed: 25698989]\n67. Freedhoff Y, Hall KD. Weight loss diet studies: we need help not hype. Lancet. 2016; 388:849–\n851. [PubMed: 27597452]\n68. Guo J, Simmons WK, Herscovitch P, et al. Striatal dopamine D2-like receptor cor"
+  },
+  {
+    "id": "nutrition_nihms851543_59",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "ubMed: 27597452]\n68. Guo J, Simmons WK, Herscovitch P, et al. Striatal dopamine D2-like receptor correlation patterns\nwith human obesity and opportunistic eating behavior. Mol Psychiatry. 2014; 19:1078–1084.\n[PubMed: 25199919]\n69. Chow CC, Hall KD. Short and long-term energy intake patterns and their implications for human\nbody weight regulation. Physiol Behav. 2014; 134:60–65. [PubMed: 24582679]\n70. Levitsky DA. The non-regulation of food intake in humans: hope for reversing the epidemic of\nobesity. Physiol Behav. 2005; 86:623–632. [PubMed: 16263145]\n71. Speakman JR, Stubbs RJ, Mercer JG. Does body mass play a role in the regulation of food intake?\nProc Nutr Soc. 2002; 61:473–487. [PubMed: 12691177]\n72. Speakman JR, Levitsky DA, Allison DB, et al. Set points, settling points and some alte"
+  },
+  {
+    "id": "nutrition_nihms851543_60",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "12691177]\n72. Speakman JR, Levitsky DA, Allison DB, et al. Set points, settling points and some alternative\nmodels: theoretical options to understand how genes and environments combine to regulate body\nadiposity. Dis Model Mech. 2011; 4:733–745. [PubMed: 22065844]\nHall and Guo Page 12\nGastroenterology.\n\n# Page 12\n\n73. Begg DP, Woods SC. The endocrinology of food intake. Nat Rev Endocrinol. 2013; 9:584–597.\n[PubMed: 23877425]\n74. Berthoud HR. The neurobiology of food intake in an obesogenic environment. Proc Nutr Soc.\n2012; 71:478–487. [PubMed: 22800810]\n75. Almiron-Roig E, Palla L, Guest K, et al. Factors that determine energy compensation: a systematic\nreview of preload studies. Nutr Rev. 2013; 71:458–473. [PubMed: 23815144]\n76. Bellisle F, Perez C. Low-energy substitutes for sugars and f"
+  },
+  {
+    "id": "nutrition_nihms851543_61",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "013; 71:458–473. [PubMed: 23815144]\n76. Bellisle F, Perez C. Low-energy substitutes for sugars and fats in the human diet: impact on\nnutritional regulation. Neurosci Biobehav Rev. 1994; 18:197–205. [PubMed: 8058213]\n77. Keys, A. The biology of human starvation. Minneapolis, MN: University of Minnesota Press;\n1950.\n78. Heyman MB, Young VR, Fuss P, et al. Underfeeding and body weight regulation in normal-weight\nyoung men. Am J Physiol. 1992; 263:R250–R257. [PubMed: 1510166]\n79. Roberts SB, Fuss P, Heyman MB, et al. Control of food intake in older men. JAMA. 1994;\n272:1601–1606.\n80. Winkels RM, Jolink-Stoppelenburg A, de Graaf K, et al. Energy intake compensation after 3 weeks\nof restricted energy intake in young and elderly men. J Am Med Dir Assoc. 2011; 12:277–286.\n[PubMed: 21527169]\n81. Bl"
+  },
+  {
+    "id": "nutrition_nihms851543_62",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "rgy intake in young and elderly men. J Am Med Dir Assoc. 2011; 12:277–286.\n[PubMed: 21527169]\n81. Blundell JE, Finlayson G, Gibbons C, et al. The biology of appetite control: Do resting metabolic\nrate and fat-free mass drive energy intake? Physiol Behav. 2015; 152:473–478. [PubMed:\n26037633]\n82. Dulloo AG, Jacquet J, Girardier L. Poststarvation hyperphagia and body fat overshooting in\nhumans: a role for feedback signals from lean and fat tissues. Am J Clin Nutr. 1997; 65:717–723.\n[PubMed: 9062520]\n83. Gibbons C, Finlayson G, Dalton M, et al. Metabolic Phenotyping Guidelines: studying eating\nbehaviour in humans. J Endocrinol. 2014; 222:G1–G12. [PubMed: 25052364]\n84. Edholm OG, Adam JM, Healy MJ, et al. Food intake and energy expenditure of army recruits. Br J\nNutr. 1970; 24:1091–1107. [PubM"
+  },
+  {
+    "id": "nutrition_nihms851543_63",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "MJ, et al. Food intake and energy expenditure of army recruits. Br J\nNutr. 1970; 24:1091–1107. [PubMed: 5484729]\n85. Dhurandhar NV, Schoeller DA, Brown AW, et al. Energy balance measurement: when something is\nnot better than nothing. Int J Obes. 2015; 39:1109–1113.\n86. Schoeller DA. How accurate is self-reported dietary energy intake? Nutr Rev. 1990; 48:373–379.\n[PubMed: 2082216]\n87. Winkler JT. The fundamental flaw in obesity research. Obes Rev. 2005; 6:199–202. [PubMed:\n16045634]\n88. Polidori D, Sanghvi A, Seeley RJ, et al. How strongly does appetite counter weight loss?\nQuantification of the feedback control of human energy intake. Obesity (Silver Spring). 2016;\n24:2289–2295. [PubMed: 27804272]\n89. Sanghvi A, Redman LA, Martin CK, et al. Validation of an inexpensive and accurate mathema"
+  },
+  {
+    "id": "nutrition_nihms851543_64",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "04272]\n89. Sanghvi A, Redman LA, Martin CK, et al. Validation of an inexpensive and accurate mathematical\nmethod to measure long-term changes in free-living energy intake. Am J Clin Nutr. 2015;\n102:353–358. [PubMed: 26040640]\n90. Franz MJ, VanWormer JJ, Crain AL, et al. Weight-loss outcomes: a systematic review and metaanalysis of weight-loss clinical trials with a minimum 1-year follow-up. J Am Diet Assoc. 2007;\n107:1755–1767. [PubMed: 17904936]\nHall and Guo Page 13\nGastroenterology.\n\n# Page 13\n\nFigure 1.\nComponents of human energy expenditure and body composition in average 100-kg and 70kg men. (A) Daily energy expenditure comprises the energy cost of digesting and processing\nfood, called the thermic effect of food, the energy expended in physical activity, and the\nenergy expended at res"
+  },
+  {
+    "id": "nutrition_nihms851543_65",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "the thermic effect of food, the energy expended in physical activity, and the\nenergy expended at rest to maintain life. People with obesity have a higher thermic effect of\nfood because of greater food intake. Furthermore, people with obesity may expend more\nenergy for physical activity despite typically moving around less than a lean individual\nbecause physical activity expenditure is proportional to body weight. Energy expended at\nrest is also greater in people with obesity because they have more metabolically active fatfree mass in addition to greater body fat as depicted in (B). (C) Body fat represents the vast\nmajority of energy stores in the body compared with the energy content of body protein and\nglycogen. People with obesity can have vast quantities of stored energy in the form of "
+  },
+  {
+    "id": "nutrition_nihms851543_66",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": " protein and\nglycogen. People with obesity can have vast quantities of stored energy in the form of body\nfat that represents several months of energy expenditure.\nHall and Guo Page 14\nGastroenterology.\n\n# Page 14\n\nFigure 2.\nMeta-analysis of controlled isocaloric feeding studies with constant dietary protein and\nvarying ratios of carbohydrate to fat. Studies are ordered from top to bottom according to the\nlargest difference in carbohydrate between diet comparisons. Effect size (ES), upper and\nlower 95% confidence limits (UCL and LCL, respectively) are indicated for the differences\nin daily energy expenditure (A) and rate of body fat change (B). The pooled weighted mean\ndifference across studies demonstrated small differences in daily energy expenditure (26\nkcal/d, P <.0001) and body fat cha"
+  },
+  {
+    "id": "nutrition_nihms851543_67",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "es demonstrated small differences in daily energy expenditure (26\nkcal/d, P <.0001) and body fat change (16 g/d, P <.0001) favoring lower fat diets\nHall and Guo Page 15\nGastroenterology.\n\n# Page 15\n\nFigure 3.\nComparison of static, settling point, and set point models of body weight regulation in a\nsimulated 90-kg man. (A) The static model assumes that energy intake (blue) and\nexpenditure (red) are independent quantities that do not depend on body weight, as shown\nby the horizontal lines in the top panel. For the first year, energy intake and expenditure are\nassumed to be balanced and correspond to overlapping solid lines. At the end of the first\nyear, the energy intake line is shifted downward by 300 kcal/d to the dashed blue line\ncorresponding with the start of a weight loss intervention "
+  },
+  {
+    "id": "nutrition_nihms851543_68",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "rd by 300 kcal/d to the dashed blue line\ncorresponding with the start of a weight loss intervention indicated by (1). Because energy\nexpenditure is assumed to be constant, a constant energy deficit is achieved (top and middle\npanels) resulting in a linear rate of weight loss (bottom panel). At the start of the second year\n(2), the intervention is stopped and the dashed energy intake curve shifts back to the solid\nbaseline intake line and weight loss is maintained. (B) The settling point model assumes that\nenergy expenditure is an increasing function of body weight whereas energy intake is\nindependent of weight (top panel). Shifting the intake curve down by the same 300 kcal/d\nafter the first year (1) results in an energy deficit that decreases in proportion to weight lost\n(top panel) resul"
+  },
+  {
+    "id": "nutrition_nihms851543_69",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": " year (1) results in an energy deficit that decreases in proportion to weight lost\n(top panel) resulting in an exponential decay of the energy deficit over time (middle panel).\nBody weight falls according to a parallel exponential pattern and it takes years to reach a\nnew equilibrium weight (bottom panel). At the beginning of the second year (2), the energy\nintake curve is shifted upward (top panel) and energy intake increases (middle panel),\ngenerating an energy surplus that results in an exponential pattern of weight regain mirroring\nprior weight loss. (C) The set point model assumes that both energy intake and expenditure\nare functions of body weight (top panel) and the same 300 kcal/d shift in the energy intake\ncurve (top panel) results in an initial decrease in energy intake that subs"
+  },
+  {
+    "id": "nutrition_nihms851543_70",
+    "source": "nutrition/nihms851543.md",
+    "domain": "nutrition",
+    "chunk": "ift in the energy intake\ncurve (top panel) results in an initial decrease in energy intake that subsequently\nexponentially increases (middle panel) as weight is lost and energy expenditure decreases.\nHall and Guo Page 16\nGastroenterology.\n\n# Page 16\n\nBody weight is lost in an abbreviated exponential pattern and achieves a new equilibrium\nafter about 6 months and no further loss occurs despite the continued intervention (bottom\npanel). At the start of the second year (2), the energy intake curve shifts to baseline (top\npanel) and leads to transient hyperphagia (middle panel) and rapid weight regain (bottom\npanel).\nHall and Guo Page 17\nGastroenterology."
+  }
+]
