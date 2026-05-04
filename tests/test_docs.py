@@ -2,6 +2,7 @@ import os
 
 raw_docs_path = os.path.abspath("app/documents/raw")
 processed_docs_path = os.path.abspath("app/documents/processed")
+cleaned_docs_path = os.path.abspath("app/documents/cleaned")
 categories = os.listdir(raw_docs_path)
 
 def test_categories():
@@ -21,3 +22,9 @@ def test_processed_documents():
         assert os.path.exists(processed_cat_path), f"Processed category directory does not exist: {processed_cat_path}"
         processed_docs = os.listdir(processed_cat_path)
         assert len(processed_docs) > 0, f"No processed documents found in category: {cats}"
+
+def test_cleaned_text_files():
+    for cats in categories:
+        cleaned_cat_path = os.path.join(cleaned_docs_path, cats)
+        cleaned_files = [f for f in os.listdir(cleaned_cat_path) if f.endswith('.md')]
+        assert len(cleaned_files) > 0, f"No cleaned text files found in category: {cats}"
