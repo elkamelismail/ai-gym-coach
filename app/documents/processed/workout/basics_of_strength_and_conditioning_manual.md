@@ -1,6 +1,10 @@
+# Page 0
+
 The National Strength and Conditioning Association’s (NSCA)
 BASICS OF STRENGTH AND CONDITIONING MANUAL
 Dr. William A. Sands   |   Jacob J. Wurth   |   Dr. Jennifer K. Hewit
+
+# Page 1
 
 Basics of Strength and Conditioning
 1
@@ -78,6 +82,8 @@ Explosive Lifting Day Exercise Technique 36
 4a. Pull-Ups 44
 4b. Standing Low Row 44
 Table of Contents
+
+# Page 2
 
 Basics of Strength and Conditioning
 2
@@ -161,6 +167,8 @@ Agility Drills 71
 7. Four-Corner Drill 75
 8. Sprint Ladder 76
 
+# Page 3
+
 Basics of Strength and Conditioning
 3
 9. Shuffle Ladder 76
@@ -193,9 +201,13 @@ Exertional Rhabdomyolysis 98
 Hyperthermia 99
 Copyright ©2012 by the National Strength and Conditioning Association. All rights reserved.
 
+# Page 4
+
 Basics of Strength and Conditioning
 4
 Performance Pyramid
+
+# Page 5
 
 Basics of Strength and Conditioning
 5
@@ -225,11 +237,17 @@ NSCA Founder
 Letter From the Founder
 NSCA’s Coaching Performance Path
 
+# Page 6
+
 Performance Pyramid
+
+# Page 7
 
 Basics of Strength and Conditioning
 7
 CHAPTER ONE | INTRODUCTION
+
+# Page 8
 
 Basics of Strength and Conditioning
 8
@@ -335,6 +353,8 @@ repetitions of an exercise combine to make volume (1). If you are
 a runner, volume is the distance you covered. If you are strength 
 training, volume is the product of sets x repetitions of an exercise.
 
+# Page 9
+
 Basics of Strength and Conditioning
 9
 Intensity – Intensity is the difficulty of the work. Intensity is the 
@@ -428,6 +448,8 @@ training they can expect to become detrained. The decrease in
 performance is directly related to the inactivity of the muscles that 
 have been atrophied from nonuse (5).
 
+# Page 10
+
 Basics of Strength and Conditioning
 10
 These principles of training will guide your decisions and 
@@ -511,6 +533,8 @@ which any training decision should pass. Moreover, you can use the
 information in this chapter as a frame or context within which the 
 following chapters fit.
 
+# Page 11
+
 Basics of Strength and Conditioning
 11
 1.  Baechle, TR, and Earle, RW. Essentials of strength training and 
@@ -552,14 +576,20 @@ Long T erm Energy System
 Aerobic
 Figure 1-1. Dominant Energy System Based on Activity Duration
 
+# Page 12
+
 Basics of Strength and Conditioning
 12
 Performance Pyramid
+
+# Page 13
 
 Basics of Strength and Conditioning
 13
 CHAPTER TWO 
 PROGRAM DESIGN
+
+# Page 14
 
 Basics of Strength and Conditioning
 14
@@ -665,6 +695,8 @@ all program designs are based on a simple yet profound idea
 proffered by Hans Selye called the General Adaptation Syndrome 
 (GAS) (49,50).
 
+# Page 15
+
 Basics of Strength and Conditioning
 15
 The GAS consists of three phases: alarm, resistance, and 
@@ -752,6 +784,8 @@ positive impacts on performance:
 antagonist muscles (33)
 Figure 2-1.  Selye’s General Adaptation Syndrome (49,50)
 
+# Page 16
+
 Basics of Strength and Conditioning
 16
 •	 Improvements in the rate of force development and reaction 
@@ -784,6 +818,8 @@ dynamic stretching that focuses on movements that work through
 the range of motion required for the sport, such as the walking 
 knee lift. Sport-specific movements of increasing intensity, such as 
 Figure 2-2. Combination of Training Design Aspects in Relation to the General Adaptation Syndrome (49,50)
+
+# Page 17
 
 Basics of Strength and Conditioning
 17
@@ -846,13 +882,19 @@ strength and conditioning program as an example of how to
 develop and implement the lessons presented throughout this 
 manual.
 
+# Page 18
+
 Basics of Strength and Conditioning
 18
+
+# Page 19
 
 Basics of Strength and Conditioning
 19
 Sample Strength and Conditioning
 12-Week Program
+
+# Page 20
 
 Basics of Strength and Conditioning
 20
@@ -898,6 +940,8 @@ Key Comments/Notes
 BB - Barbell / DB - Dumbbell
 CB - Cable / MB - Medicine Ball
 
+# Page 21
+
 Basics of Strength and Conditioning
 21
 Strength Phase
@@ -936,6 +980,8 @@ Key Comments/Notes
 BB - Barbell / DB - Dumbbell
 CB - Cable / MB - Medicine Ball
 
+# Page 22
+
 Basics of Strength and Conditioning
 22
 Peak Phase
@@ -969,6 +1015,8 @@ BB Bench Press OR DB Bench Press 3x3 3x3 3x3 3x3
 Key Comments/Notes
 BB - Barbell / DB - Dumbbell
 CB - Cable / MB - Medicine Ball
+
+# Page 23
 
 Basics of Strength and Conditioning
 23
@@ -1055,6 +1103,8 @@ Long CJ, LaRosa-Loud R, and Zaichowsky LD. The effects
 of strength training and detraining on children. Journal of 
 Strength and Conditioning Research 10: 109 – 114, 1996.
 References
+
+# Page 24
 
 Basics of Strength and Conditioning
 24
@@ -1147,6 +1197,8 @@ literature. Medicine and science in sports and exercise 36: 371
 54. Thrash, K, and Kelly, B. Flexibility and strength training. 
 Journal of Applied Sport Science Research 1: 74 – 75, 1987.
 
+# Page 25
+
 Basics of Strength and Conditioning
 25
 55. Unick, J, Kieffer, HS, Cheesman, W, and Feeney, A. The acute 
@@ -1174,15 +1226,21 @@ on power output during concentric dynamic constant external
 resistance leg extension. Journal of Strength and Conditioning 
 Research 20: 804 – 810, 2006.
 
+# Page 26
+
 Basics of Strength and Conditioning
 26
 Performance Pyramid
+
+# Page 27
 
 Basics of Strength and Conditioning
 27
 CHAPTER THREE 
 TECHNIQUE FUNDAMENTALS
 AND SPOTTING
+
+# Page 28
 
 Basics of Strength and Conditioning
 28
@@ -1260,6 +1318,8 @@ manufacturer’s instructions to determine a machine’s proper use.
 Figure 3-1. Examples of Different Barbell Grips: a) Pronated/
 Overhand, b) Supinated/Underhand, c) Alternated, and d) Hook
 Figure 3-2. Grip Width Landmarks on the Barbell
+
+# Page 29
 
 Basics of Strength and Conditioning
 29
@@ -1365,6 +1425,8 @@ spotters do not have this information, they may take control of the
 bar improperly, too soon, or too late, and consequently disrupt the 
 exercise or injure the athlete or themselves.
 
+# Page 30
+
 Basics of Strength and Conditioning
 30
 Amount and Timing of Spotting Assistance
@@ -1403,6 +1465,8 @@ Figure 3-4. Lifting Position
 Figure 3-5. Lowest Lifting Position
 Figure 3-6. Racking Position
 
+# Page 31
+
 Basics of Strength and Conditioning
 31
 Dumbbell Incline Bench Press –  
@@ -1429,6 +1493,8 @@ Figure 3-10. Start Position
 Figure 3-8. Bottom Lifting Position
 Figure 3-11. Highest Position Figure 3-12. Spotter Assisting Descent
 
+# Page 32
+
 Basics of Strength and Conditioning
 32
 Barbell Back Squat – Spotting Technique  
@@ -1454,6 +1520,8 @@ Figure 3-13. Athlete Lift-Off Figure 3-15. Lowest Squat Position
 Figure 3-16. Ascending
 Figure 3-14. Start Position
 Figure 3-17. Spotter Assisting Ascent Figure 3-18. Racking the Bar
+
+# Page 33
 
 Basics of Strength and Conditioning
 33
@@ -1503,14 +1571,20 @@ conditioning: A review of the literature. Chiropr Sports Med 6(3):
 Figure 3-19. Start Position 
 Figure 3-20. Lowest Position
 
+# Page 34
+
 Basics of Strength and Conditioning
 34
 Performance Pyramid
+
+# Page 35
 
 Basics of Strength and Conditioning
 35
 CHAPTER FOUR 
 EXERCISE TECHNIQUE
+
+# Page 36
 
 Basics of Strength and Conditioning
 36
@@ -1580,6 +1654,8 @@ knees and ankles
 6. Arms should be completely extended and elbows pointed out
 7. Head remains in a neutral position looking forward
 Figure 4-1. Start Position Figure 4-2. Triple Extension Figure 4-3. Catch Position
+
+# Page 37
 
 Basics of Strength and Conditioning
 37
@@ -1667,6 +1743,8 @@ extension of the hips
 •	 Catch the bar with elbows high, hips back, knees over toes, and 
 eyes forward
 
+# Page 38
+
 Basics of Strength and Conditioning
 38
 1c. Barbell Power Clean 
@@ -1706,6 +1784,8 @@ Figure 4-7. Triple Extension
 Figure 4-5. Start Position
 Figure 4-8. Catch Position Figure 4-9. Finish Position
 
+# Page 39
+
 Basics of Strength and Conditioning
 39
 7. Transition feet to slightly wider than hip-width, keeping them 
@@ -1731,6 +1811,8 @@ extension of the hips
 forward
 Figure 4-10. Addressing the Bar Figure 4-12. Triple ExtensionFigure 4-11. Load Position
 Figure 4-13. Catch Position Figure 4-14. Finish Position
+
+# Page 40
 
 Basics of Strength and Conditioning
 40
@@ -1789,6 +1871,8 @@ this unloading method is used
 •	 Avoid pulling with the arms before attaining complete 
 extension of the hips  
 Figure 4-15. Start Position Figure 4-16. Load Position Figure 4-17. Triple Extension
+
+# Page 41
 
 Basics of Strength and Conditioning
 41
@@ -1856,6 +1940,8 @@ pulled back and down
 Figure 4-18. Front Raise
 Figure 4-19. Lateral Raise
 Figure 4-20. Bent-Over Raise
+
+# Page 42
 
 Basics of Strength and Conditioning
 42
@@ -1931,6 +2017,8 @@ the back
  
 Figure 4-21. Start Position Figure 4-22. Finish Position
 
+# Page 43
+
 Basics of Strength and Conditioning
 43
 Procedure
@@ -1991,6 +2079,8 @@ Figure 4-28. Catch Position
 Figure 4-27. Quarter 
 Squat Position
 Figure 4-29. Finish Position
+
+# Page 44
 
 Basics of Strength and Conditioning
 44
@@ -2064,6 +2154,8 @@ lean of the torso so the shoulders are directly over the knees
 5. Fully extend elbows (Figure 4-32)
 Figure 4-30. Start Position Figure 4-31. Finish Position
 
+# Page 45
+
 Basics of Strength and Conditioning
 45
 Procedure
@@ -2116,6 +2208,8 @@ wider than shoulder-width
 4. Keep arms extended and elbows pointed out (Figure 4-36)
 Figure 4-32. Start Position Figure 4-33. Finish Position
 Figure 4-34. Start Position Figure 4-35. Finish Position
+
+# Page 46
 
 Basics of Strength and Conditioning
 46
@@ -2180,6 +2274,8 @@ to the spine by contracting the inner abdominal muscles
 Figure 4-36. Start Position Figure 4-37. Finish Position
 Figure 4-38. Start Position Figure 4-39. Finish Position
 
+# Page 47
+
 Basics of Strength and Conditioning
 47
 3. Maintain a straight line from the ankles to the ears  
@@ -2231,6 +2327,8 @@ Figure 4-40. Start Position Figure 4-41. Finish Position
 Figure 4-42. Front Plank 
 Position
 Figure 4-43. Side Plank Position
+
+# Page 48
 
 Basics of Strength and Conditioning
 48
@@ -2291,6 +2389,8 @@ stress on the neck and back
 Figure 4-44. Start Position
 Figure 4-45. Grip Position
 Figure 4-46. Head and Eye Position
+
+# Page 49
 
 Basics of Strength and Conditioning
 49
@@ -2358,6 +2458,8 @@ Common Mistakes
 controlled) 
 Figure 4-47. Low Point of Descent
 Figure 4-48. Ascent
+
+# Page 50
 
 Basics of Strength and Conditioning
 50
@@ -2433,6 +2535,8 @@ throughout entire lift
 Figure 4-49. Clean Style Grip
 Figure 4-50. Cross-Arm Style Grip
 
+# Page 51
+
 Basics of Strength and Conditioning
 51
 1c. Barbell Clean Deadlift
@@ -2482,6 +2586,8 @@ under control
 the entire lift
 Figure 4-51. Lift-Off Figure 4-52. Start Position Figure 4-53. Bottom Squat Position
 Figure 4-54. Start Position Figure 4-55. Finish Position
+
+# Page 52
 
 Basics of Strength and Conditioning
 52
@@ -2547,6 +2653,8 @@ facing in
 (Figure 4-61)
 Figure 4-56. Start Position Figure 4-57. Load Position Figure 4-58. Finish Position
 
+# Page 53
+
 Basics of Strength and Conditioning
 53
 Procedure
@@ -2596,6 +2704,8 @@ back off the chest for maximum force)
 Figure 4-59. Start Position Figure 4-61. Start PositionFigure 4-60. Finish Position Figure 4-62. Finish Position
 Figure 4-63. Highest Point
 Figure 4-64. Lowest Point
+
+# Page 54
 
 Basics of Strength and Conditioning
 54
@@ -2661,6 +2771,8 @@ chest to complete the lift)
 Figure 4-65. Highest Point Figure 4-66. Lowest Point
 Figure 4-67. Start Position Figure 4-68. Finish Position
 
+# Page 55
+
 Basics of Strength and Conditioning
 55
 4d. Dumbbell Incline Bench Press 
@@ -2710,6 +2822,8 @@ Coaching Points
 Figure 4-69. Start Position Figure 4-70. Finish Position
 Figure 4-71. 90˚ Elbow Angle Figure 4-72. End Position
 
+# Page 56
+
 Basics of Strength and Conditioning
 56
 6. Abdominals Choice
@@ -2743,6 +2857,8 @@ movements. Prior to beginning a strength training program, these
 techniques should be taught to all athletes.
 Figure 4-73. Start Position Figure 4-74. Reaching Position
 
+# Page 57
+
 Basics of Strength and Conditioning
 57
 References
@@ -2764,12 +2880,18 @@ conditioning: A position statement and review of the
 literature. National Strength and Conditioning Association 
 Journal 13: 51, 1991.
 
+# Page 58
+
 Performance Pyramid
+
+# Page 59
 
 Basics of Strength and Conditioning
 59
 CHAPTER FIVE 
 SPEED AND AGILITY TRAINING
+
+# Page 60
 
 Basics of Strength and Conditioning
 60
@@ -2861,6 +2983,8 @@ III—Concentric Shortening of agonist muscle fibers
 •	 Alpha motor neurons stimulate the agonist muscle group
 Figure 5-1.  Stretch-Shortening Cycle Phases
 
+# Page 61
+
 Basics of Strength and Conditioning
 61
 of a plyometric exercise as described above. Figure 5-1 shows 
@@ -2946,6 +3070,8 @@ The greater the athlete’s bodyweight, the more stress is placed on the muscles
 External weight (in the form of weight vests, ankle weights, and wrist weights) can be added to the body to 
 increase a drill’s intensity
 Figure 5-2.  Plyometric Intensity Factors
+
+# Page 62
 
 Basics of Strength and Conditioning
 62
@@ -3055,6 +3181,8 @@ As the movements performed in the sport should be replicated
 as much as possible in training sessions, these technical 
 characteristics should also be emphasized in all drills.
 
+# Page 63
+
 Basics of Strength and Conditioning
 63
 Athletes from a variety of different sports are required to perform 
@@ -3079,6 +3207,8 @@ surrounding the knee.
 Figure 5-3. Key Contributing Components of Agility (with the four main categories circled) (17)
 Figure 5-4. The Q-angle Figure 5-5. Valgus Knee 
 Alignment Upon Landing
+
+# Page 64
 
 Basics of Strength and Conditioning
 64
@@ -3176,6 +3306,8 @@ the end of this chapter.
 Figure 5-6. Proper Knee 
 Alignment Upon Landing
 
+# Page 65
+
 Basics of Strength and Conditioning
 65
 Warm-Up Drills
@@ -3228,6 +3360,8 @@ Landing Drills
 7. Box Shuffle Step
 8. Double Box Shuffle Step
 9. Lateral Box Jump
+
+# Page 66
 
 Basics of Strength and Conditioning
 66
@@ -3292,6 +3426,8 @@ and hip (right leg remains straight) (Figure 5-10a)
 4. Hold position for 3 s  
 Figure 5-7. High Knees Figure 5-8. Heel-Ups
 
+# Page 67
+
 Basics of Strength and Conditioning
 67
 5. Stand up through left leg by keeping weight on left leg and 
@@ -3326,6 +3462,8 @@ Figure 5-10a. Side Lunge Position Figure 5-10b. Squat
 Position
 Figure 5-11b. Knee ExtensionFigure 5-11a. Driving the 
 Knee Upward
+
+# Page 68
 
 Basics of Strength and Conditioning
 68
@@ -3385,6 +3523,8 @@ and explosive
 Figure 5-13. Form Start
 Figure 5-14. Athletic Stance
 
+# Page 69
+
 Basics of Strength and Conditioning
 69
 4. Flying 10s
@@ -3437,6 +3577,8 @@ as possible
 Figure 5-16. Power Skips for 
 Height
  Figure 5-17. Power Skips for Distance
+
+# Page 70
 
 Basics of Strength and Conditioning
 70
@@ -3498,6 +3640,8 @@ the drill
  Figure 5-18. Flying 20s
 Figure 5-19. Sprinting with a Harness
  Figure 5-20. Flying 30s
+
+# Page 71
 
 Basics of Strength and Conditioning
 71
@@ -3568,6 +3712,8 @@ Tuck Form
 Figure 5-22. Hollow Sprints (10-yard increments shown)
  Figure 5-23.  Rope or Ladder Routine – Every Hole
 
+# Page 72
+
 Basics of Strength and Conditioning
 72
 1b. Every Other Hole
@@ -3626,6 +3772,8 @@ Figure 5-24. Rope or Ladder Routine – Every Other Hole
 Figure 5-25. Rope or Ladder Routine – Lateral Step
 Figure 5-26. Bag Routine – Change of Direction
 
+# Page 73
+
 Basics of Strength and Conditioning
 73
 Coaching Points
@@ -3675,6 +3823,8 @@ Figure 5-27. Bag Routine – Shuffle
 Figure 5-28. Bag Routine – Forward and Backpedal
 Figure 5-29. Line Jump Routine – Single Bunny Hop
 Figure 5-30. Line Jump Routine – Double Bunny Hop
+
+# Page 74
 
 Basics of Strength and Conditioning
 74
@@ -3739,6 +3889,8 @@ Figure 5-33a. Starting Position
 for the Pro-Agility Drill
 Figure 5-33b. Pro-Agility Drill
 
+# Page 75
+
 Basics of Strength and Conditioning
 75
 4. Sprint forward 5 yards and touch the line with both hands; 
@@ -3789,6 +3941,8 @@ backpedal-shuffle pattern and a backpedal-shuffle-sprint-
 shuffle pattern
 Figure 5-34. Nebraska Agility Drill
 Figure 5-35. Three-Cone Drill
+
+# Page 76
 
 Basics of Strength and Conditioning
 76
@@ -3845,6 +3999,8 @@ yards – 5 yards, 5 yards – 10 yards – 15 yards, and 15 yards –
 Figure 5-36. Four-Corner Drill 
 Figure 5-37. Sprint Ladder
 
+# Page 77
+
 Basics of Strength and Conditioning
 77
 Coaching Points
@@ -3895,6 +4051,8 @@ Figure 5-39a. Start
 Position 
 Figure 5-39b. Landing 
 Position
+
+# Page 78
 
 Basics of Strength and Conditioning
 78
@@ -3968,6 +4126,8 @@ Coaching Points
 Figure 5-40. Vertical Jump
 Figure 5-41. Tuck Jump
 
+# Page 79
+
 Basics of Strength and Conditioning
 79
 5. Broad Jump with Vertical Jump
@@ -4005,6 +4165,8 @@ Figure 5-43c. Broad Jump
 Landing
 Figure 5-43d. Vertical Jump 
 following Broad Jump
+
+# Page 80
 
 Basics of Strength and Conditioning
 80
@@ -4070,6 +4232,8 @@ Step Jump
 Figure 5-45c. Box Shuffle 
 Step Landing
 
+# Page 81
+
 Basics of Strength and Conditioning
 81
 Coaching Points
@@ -4104,6 +4268,8 @@ Figure 5-47b. Landing on
 the Box 
 Figure 5-47c. Lateral Box 
 Jump Landing (far side)
+
+# Page 82
 
 Basics of Strength and Conditioning
 82
@@ -4190,6 +4356,8 @@ Strength and Conditioning Research 19(1): 76 – 78, 2005.
 qualities and agility performance. Journal of Sports Medicine 
 and Physical Fitness 47(3): 276 – 283, 2007.
 
+# Page 83
+
 Basics of Strength and Conditioning
 83
 27.  Sheppard, J, Young, W, Doyle, T, Sheppard, T, and Newton, 
@@ -4212,13 +4380,19 @@ Research 15(3): 315 – 319, 2001.
 32.  Zatsiorsky, VM. Science and Practice of Strength Training. 
 Champaign, IL: Human Kinetics; 1995.
 
+# Page 84
+
 Basics of Strength and Conditioning
 84
+
+# Page 85
 
 Basics of Strength and Conditioning
 85
 Sample Program for Agility Drills 
 Weeks 5-12
+
+# Page 86
 
 Basics of Strength and Conditioning
 86
@@ -4254,6 +4428,8 @@ Power Skips (height) 2 2
 Power Skips (distance) 2 2
 Harness Routine 1 2
 Total reps 21 25
+
+# Page 87
 
 Basics of Strength and Conditioning
 87
@@ -4292,6 +4468,8 @@ Bag Jumps 3 4
 Harness Routine 2 3
 Total reps 23 29
 
+# Page 88
+
 Basics of Strength and Conditioning
 88
 Week 11
@@ -4317,10 +4495,14 @@ Bag Jumps 3 4
 Harness Routine 2 4
 Total reps 25 32
 
+# Page 89
+
 Basics of Strength and Conditioning
 89
 Sample Program for Speed Drills 
 Weeks 7-12
+
+# Page 90
 
 Basics of Strength and Conditioning
 90
@@ -4360,6 +4542,8 @@ Sprint Ladder 2 (1 x d and 1 x e) 2 (a and b)
 Shuffle Ladder 2 (1 x a and 1 x b) 2 (1 x c and 1 x d)
 Backpedal Ladder 2 (1 x a and 1 x b) 2 (1 x d and 1 x e)
 Total reps 28 24
+
+# Page 91
 
 Basics of Strength and Conditioning
 91
@@ -4403,11 +4587,17 @@ Sprint Ladder 5 (1 x a, b, c, d, and e) 4 (1 x a, 1 x b, 1 x d, and 1 x e)
 Backpedal Ladder 5 (2 x a, 2 x d, and 1 x c) 3 (1 x a, 1 x b, and 1 x c)
 Total reps 34 28
 
+# Page 92
+
 Performance Pyramid
+
+# Page 93
 
 Basics of Strength and Conditioning
 93
 CHAPTER SIX | SAFE TRAINING
+
+# Page 94
 
 Basics of Strength and Conditioning
 94
@@ -4507,6 +4697,8 @@ quadriplegia, sickle cell trait, sudden cardiac death, concussion,
 hypertrophic cardiac myopathy, paraplegia, paralysis, disability, 
 musculoskeletal injury, sprain, strain, arthritis, pathogen, HIV-
 AIDS, and overuse
+
+# Page 95
 
 Basics of Strength and Conditioning
 95
@@ -4610,6 +4802,8 @@ athletes of similar characteristics together so that they can
 easily assist each other in spotting, moving weights, racking and 
 unracking the bar, and so forth.
 
+# Page 96
+
 Basics of Strength and Conditioning
 96
 Facility
@@ -4702,6 +4896,8 @@ school); or 6 – 7 training stations and/or 2,000 ft 2 (college),
 respectively. Professional discretion may adjust these guidelines 
 with respect to the practical considerations discussed above.
 
+# Page 97
+
 Basics of Strength and Conditioning
 97
 Performance Safety Team
@@ -4793,6 +4989,8 @@ of breath occurs
 7. Avoid high caffeine and energy drinks
 8. Manage asthma
 
+# Page 98
+
 Basics of Strength and Conditioning
 98
 9. Beware of exercise at higher altitudes, and under high 
@@ -4878,6 +5076,8 @@ color)
 •	 Increased amount of large proteins in the blood (can lead to 
 kidney failure and death)
 
+# Page 99
+
 Basics of Strength and Conditioning
 99
 Hyperthermia
@@ -4932,6 +5132,8 @@ or suffer from overtraining. When in doubt, rest. When training,
 be ever vigilant and observant of technique errors. Be sure to pay 
 attention to detail so that the small errors, that by themselves may 
 not merit much attention, do not lead to bigger errors.
+
+# Page 100
 
 Basics of Strength and Conditioning
 100
@@ -5018,6 +5220,8 @@ Carolina Academic Press; 209 – 213, 1998.
 27.  Herbert, DL. Supervision of children. Sports Medicine Standards 
 and Malpractice Reporter 3: 69, 1991.
 
+# Page 101
+
 Basics of Strength and Conditioning
 101
 28.  Herbert, DL. Supervision for strength and conditioning 
@@ -5078,6 +5282,8 @@ Medicine 24: 164 – 168, 1997.
 at Impact biomechanics from fundamental insights to 
 applications: University College—Dublin, Ireland; 2005.
 
+# Page 102
+
 Basics of Strength and Conditioning
 102
 Administration of Interscholastic Sports 
@@ -5102,9 +5308,13 @@ includes a recommended strength and conditioning program.
 A Clear Path to Safe and Effective Strength Training
 The NIAAA, NFHS, and NSCA have partnered together to create:
 
+# Page 103
+
 Basics of Strength and Conditioning
 103
 NOTES
+
+# Page 104
 
 Basics of Strength and Conditioning
 104

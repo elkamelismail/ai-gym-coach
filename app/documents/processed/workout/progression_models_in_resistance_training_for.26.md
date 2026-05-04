@@ -1,3 +1,5 @@
+# Page 0
+
 Copyright @ 200  by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.9
 Progression Models in
 Resistance Training
@@ -89,6 +91,8 @@ MEDICINE & SCIENCE IN SPORTS & EXERCISE /C210
 Copyright /C2112009 by the American College of Sports Medicine
 DOI: 10.1249/MSS.0b013e3181915670
 687
+
+# Page 1
 
 Copyright @ 200  by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.9
 RT refers to programs designed to maintain the current level
@@ -193,6 +197,8 @@ D Panel consensus judgment Expert judgment is based on panel’s synthesis of ev
 panel members based on clinical experience or knowledge that does not meet the above-listed criteria.
 http://www.acsm-msse.org688 Official Journal of the American College of Sports Medicine
 SPECIAL COMMUNICATIONS
+
+# Page 2
 
 Copyright @ 200  by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.9
 maximum [RM] squat), cycling power, motor performance,
@@ -305,6 +311,8 @@ lic (221), hormonal (151–154,158,159,165,219), neural
 (96,235), and cardiovascular (72) responses to resistance
 PROGRESSION AND RESISTANCE TRAINING Medicine & Science in Sports & Exercise d 689
 SPECIAL COMMUNICATIONS
+
+# Page 3
 
 Copyright @ 200  by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.9
 exercise. Depending on an individual’s training experience
@@ -421,6 +429,8 @@ untrained individuals respond favorably to both single- and
 http://www.acsm-msse.org690 Official Journal of the American College of Sports Medicine
 SPECIAL COMMUNICATIONS
 
+# Page 4
+
 Copyright @ 200  by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.9
 multiple-set programs and formed the basis for the popularity
 of single-set training among general fitness enthusiasts (68).
@@ -535,6 +545,8 @@ included (30,169,172,178,248–250,274).
 PROGRESSION AND RESISTANCE TRAINING Medicine & Science in Sports & Exercise d 691
 SPECIAL COMMUNICATIONS
 
+# Page 5
+
 Copyright @ 200  by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.9
 Evidence category C . For advanced RT, it is recom-
 mended that emphasis be placed on free-weight exercises
@@ -647,6 +659,8 @@ in training load is necessary when using a Bvery slow [
 velocity (10:5) compared with a slow velocity (2:4) (141).
 http://www.acsm-msse.org692 Official Journal of the American College of Sports Medicine
 SPECIAL COMMUNICATIONS
+
+# Page 6
 
 Copyright @ 200  by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.9
 Another study comparing Bvery slow [ (10:5) to traditional
@@ -762,6 +776,8 @@ advanced individuals yielded the highest effect size (225)
 PROGRESSION AND RESISTANCE TRAINING Medicine & Science in Sports & Exercise d 693
 SPECIAL COMMUNICATIONS
 
+# Page 7
+
 Copyright @ 200  by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.9
 and two to three times per week yielded similar effect sizes
 in athletes (206).
@@ -874,6 +890,8 @@ be used for 1–12 repetitions per set for three to six sets per
 http://www.acsm-msse.org694 Official Journal of the American College of Sports Medicine
 SPECIAL COMMUNICATIONS
 
+# Page 8
+
 Copyright @ 200  by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.9
 exercise in periodized manner such that the majority of
 training is devoted to 6–12 RM and less training devoted to
@@ -984,6 +1002,8 @@ shorter period or when a greater amount of work is performed
 during the same period. Muscular power is the scalar product
 PROGRESSION AND RESISTANCE TRAINING Medicine & Science in Sports & Exercise d 695
 SPECIAL COMMUNICATIONS
+
+# Page 9
 
 Copyright @ 200  by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.9
 of force generation and movement velocity, is demonstrated as
@@ -1098,6 +1118,8 @@ exercises.
 http://www.acsm-msse.org696 Official Journal of the American College of Sports Medicine
 SPECIAL COMMUNICATIONS
 
+# Page 10
+
 Copyright @ 200  by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.9
 Frequency
 Power training is typically integrated into a periodized
@@ -1204,6 +1226,8 @@ frequency may be used (4–6 d Iwkj1) if muscle group split
 routines are used.
 PROGRESSION AND RESISTANCE TRAINING Medicine & Science in Sports & Exercise d 697
 SPECIAL COMMUNICATIONS
+
+# Page 11
 
 Copyright @ 200  by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.9
 Repetition Velocity
@@ -1312,6 +1336,8 @@ Muscular strength is an important factor in an individual’s
 ability to stop and change direction rapidly (11,119,208).
 http://www.acsm-msse.org698 Official Journal of the American College of Sports Medicine
 SPECIAL COMMUNICATIONS
+
+# Page 12
 
 Copyright @ 200  by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.9
 Lower-body multiple-joint exercise strength and power
@@ -1426,6 +1452,8 @@ with the CON phase performed rapidly with a controlled
 PROGRESSION AND RESISTANCE TRAINING Medicine & Science in Sports & Exercise d 699
 SPECIAL COMMUNICATIONS
 
+# Page 13
+
 Copyright @ 200  by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.9
 TABLE 2. Summary of progressive resistance training recommendations.
 Evidence Statement Grade
@@ -1529,6 +1557,8 @@ enhancing muscular endurance.
 B
 http://www.acsm-msse.org700 Official Journal of the American College of Sports Medicine
 SPECIAL COMMUNICATIONS
+
+# Page 14
 
 Copyright @ 200  by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.9
 (2–3 s) ECC phase, in the elderly. Low-to-moderate
@@ -1649,6 +1679,8 @@ and functional performance in very old men and women. Clin
 Sci. 1992;82:321–7.
 PROGRESSION AND RESISTANCE TRAINING Medicine & Science in Sports & Exercise d 701
 SPECIAL COMMUNICATIONS
+
+# Page 15
 
 Copyright @ 200  by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.9
 19. Behm DG, Sale DG. Intended rather than actual movement ve-
@@ -1788,6 +1820,8 @@ Eur J Appl Physiol . 2003;89:578–86.
 http://www.acsm-msse.org702 Official Journal of the American College of Sports Medicine
 SPECIAL COMMUNICATIONS
 
+# Page 16
+
 Copyright @ 200  by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.9
 65. Fatouros IG, Tournis S, Leontsini D, et al. Leptin and adi-
 ponectin responses in overweight and inactive elderly following
@@ -1923,6 +1957,8 @@ in middle-aged and older people. J Appl Physiol . 1998;84:
 1341–9.
 PROGRESSION AND RESISTANCE TRAINING Medicine & Science in Sports & Exercise d 703
 SPECIAL COMMUNICATIONS
+
+# Page 17
 
 Copyright @ 200  by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.9
 106. Ha¨kkinen K, Newton RU, Gordon SE, et al. Changes in muscle
@@ -2060,6 +2096,8 @@ Med Sci Sports Exerc . 1992;24:415–9.
 http://www.acsm-msse.org704 Official Journal of the American College of Sports Medicine
 SPECIAL COMMUNICATIONS
 
+# Page 18
+
 Copyright @ 200  by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.9
 147. Komi PV, Kaneko M, Aura O. EMG activity of leg extensor
 muscles with special reference to mechanical efficiency in
@@ -2194,6 +2232,8 @@ time course of muscle strength gain. Am J Phys Med .1 9 7 9 ; 5 8 :
 115–30.
 PROGRESSION AND RESISTANCE TRAINING Medicine & Science in Sports & Exercise d 705
 SPECIAL COMMUNICATIONS
+
+# Page 19
 
 Copyright @ 200  by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.9
 189. Morrissey MC, Harman EA, Frykman PN, Han KH. Early phase
@@ -2333,6 +2373,8 @@ trained men. J Strength Cond Res . 2004;18:846–9.
 http://www.acsm-msse.org706 Official Journal of the American College of Sports Medicine
 SPECIAL COMMUNICATIONS
 
+# Page 20
+
 Copyright @ 200  by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.9
 230. Robinson JM, Stone MH, Johnson RL, et al. Effects of different
 weight training exercise/rest intervals on strength, power, and
@@ -2469,6 +2511,8 @@ bench press performance with heavy vs. light loads. J Strength
 Cond Res . 2006;20:396–9.
 PROGRESSION AND RESISTANCE TRAINING Medicine & Science in Sports & Exercise d 707
 SPECIAL COMMUNICATIONS
+
+# Page 21
 
 Copyright @ 200  by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited.9
 271. Willardson JM, Burkett LN. The effect of rest interval length on

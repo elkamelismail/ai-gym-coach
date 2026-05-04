@@ -1,3 +1,5 @@
+# Page 0
+
 ARTICLE
 Received 1 Feb 2016 | Accepted 2 Sep 2016 | Published 11 Oct 2016
 NRK1 controls nicotinamide mononucleotide and
@@ -31,6 +33,8 @@ Polytechnique Fe´de´rale de Lausanne (EPFL), Lausanne CH-1015, Switzerland. 8 
 (CIBERDEM), Madrid 28029, Spain. 9 Department of Electronic Engineering, Universitat Rovira i Virgili, T arragona 43007, Spain. Correspondence and
 requests for materials should be addressed to C.B. (email: charles-brenner@uiowa.edu) or to C.C. (email: carlos.cantoalvarez@rd.nestle.com).
 NATURE COMMUNICATIONS | 7:13103 | DOI: 10.1038/ncomms13103 | www.nature.com/naturecommunications 1
+
+# Page 1
 
 N
 icotinamide adenine dinucleotide (NAD þ ) is an essential
@@ -169,6 +173,8 @@ increases observed in F3T3-NRK1 cells (Fig. 2d). We next
 ARTICLE NATURE COMMUNICATIONS | DOI: 10.1038/ncomms13103
 2 NATURE COMMUNICATIONS | 7:13103 | DOI: 10.1038/ncomms13103 | www.nature.com/naturecommunications
 
+# Page 2
+
 evaluated the role of NRK1 in the utilization of other NAD þ
 precursors, such as NMN and NAM. If NMN has the capacity to
 enter cells by diffusion or a specialized transporter, it would only
@@ -296,6 +302,8 @@ NR-treated NIH/3T3 cells overexpressing NRK1 or NRK2. Results shown are mean ±s
 T-test ( n ¼ 3).
 NATURE COMMUNICATIONS | DOI: 10.1038/ncomms13103 ARTICLE
 NATURE COMMUNICATIONS | 7:13103 | DOI: 10.1038/ncomms13103 | www.nature.com/naturecommunications 3
+
+# Page 3
 
 Tubulin
 Nampt
@@ -465,6 +473,8 @@ followed by Bonferroni’s post-hoc test ( n ¼ 3).
 ARTICLE NATURE COMMUNICATIONS | DOI: 10.1038/ncomms13103
 4 NATURE COMMUNICATIONS | 7:13103 | DOI: 10.1038/ncomms13103 | www.nature.com/naturecommunications
 
+# Page 4
+
 cultured in serum- and NAM-free medium. As shown in Fig. 4a,
 [18O]-NR treatment of HepG2 cells led to a rapid rise in the ratio
 between heavy and endogenous NR, which was followed by
@@ -581,6 +591,8 @@ Figure 4 | Extracellular NMN dephosphorylates to NR. HepG2 cells were treated wi
 labelled compounds ( a,c) and presence of labelled compounds in the media of treated cells ( b,d). Results shown are mean ±s.e.m. ( n ¼ 3).
 NATURE COMMUNICATIONS | DOI: 10.1038/ncomms13103 ARTICLE
 NATURE COMMUNICATIONS | 7:13103 | DOI: 10.1038/ncomms13103 | www.nature.com/naturecommunications 5
+
+# Page 5
 
 the ribose ( 2H) moieties are labelled. Primary hepatocytes from
 WT and NRK1KO mice were exposed to these compounds at
@@ -719,6 +731,8 @@ NAM, 0.5 mM NA or vehicle control. Results shown are mean ±s.e.m., * Po0.05 ver
 ARTICLE NATURE COMMUNICATIONS | DOI: 10.1038/ncomms13103
 6 NATURE COMMUNICATIONS | 7:13103 | DOI: 10.1038/ncomms13103 | www.nature.com/naturecommunications
 
+# Page 6
+
 NAD þ precursors. As in liver, the ability of NAM to trigger
 NAD þ synthesis was comparable between WT and NRK1KO
 mice in all tissues analysed (Fig. 7c–h). In line with high
@@ -837,6 +851,8 @@ unpaired T-test ( n ¼ 3).
 NATURE COMMUNICATIONS | DOI: 10.1038/ncomms13103 ARTICLE
 NATURE COMMUNICATIONS | 7:13103 | DOI: 10.1038/ncomms13103 | www.nature.com/naturecommunications 7
 
+# Page 7
+
 mitochondrial and neurodegenerative disorders 3. Although both
 compounds lead to NAD þ synthesis, speciﬁc analysis of their
 bioavailability and metabolism remained to be elucidated.
@@ -941,6 +957,8 @@ in liver ( a), total kidney extracts ( c), BAT ( e) and muscle ( g) tissue. Perc
 muscle ( h) tissue upon treatments. Results shown are mean ±s.e.m., * Po0.05, ** Po0.01, ***Po0.001 versus WT by two-sided unpaired T-test (n ¼ 5).
 ARTICLE NATURE COMMUNICATIONS | DOI: 10.1038/ncomms13103
 8 NATURE COMMUNICATIONS | 7:13103 | DOI: 10.1038/ncomms13103 | www.nature.com/naturecommunications
+
+# Page 8
 
 NAD þ synthesis. In vivo, however, intraperitoneal NR and NMN
 administration quickly lead to increases in NAM. Our results
@@ -1064,6 +1082,8 @@ samples by LC-QqQ MS. Results shown are mean ±s.e.m., * Po0.05 versus WT; # Po0
 post-hoc test ( n ¼ 3).
 NATURE COMMUNICATIONS | DOI: 10.1038/ncomms13103 ARTICLE
 NATURE COMMUNICATIONS | 7:13103 | DOI: 10.1038/ncomms13103 | www.nature.com/naturecommunications 9
+
+# Page 9
 
 receptor CD73 could act as a potential NR-releasing enzyme 15.
 CD73 possesses pyrophosphatase and 50-ectonucleotidase activities
@@ -1211,6 +1231,8 @@ Primary BAT cells. Primary brown adipocytes cells were obtained from the
 interscapular BAT of WT mice. Immortalized brown pre-adipocytes were grown
 ARTICLE NATURE COMMUNICATIONS | DOI: 10.1038/ncomms13103
 10 NATURE COMMUNICATIONS | 7:13103 | DOI: 10.1038/ncomms13103 | www.nature.com/naturecommunications
+
+# Page 10
 
 until 90% conﬂuence in ‘growth medium’ (DMEM supplemented with 10% FBS,
 0.02 mM Insulin, and 1.5 nM 3,3 0,5 Triiodothyronine (T3)) and next differentiated
@@ -1372,6 +1394,8 @@ route to NAD
 þ in fungi and humans. Cell 117, 495–502 (2004).
 NATURE COMMUNICATIONS | DOI: 10.1038/ncomms13103 ARTICLE
 NATURE COMMUNICATIONS | 7:13103 | DOI: 10.1038/ncomms13103 | www.nature.com/naturecommunications 11
+
+# Page 11
 
 19. Canto, C. et al. The NAD( þ ) precursor nicotinamide riboside enhances
 oxidative metabolism and protects against high-fat diet-induced obesity.

@@ -1,3 +1,5 @@
+# Page 0
+
 THE MECHANISMS OF MUSCLE HYPERTROPHY AND
 THEIR APPLICATION TO RESISTANCE TRAINING
 BRAD J. S CHOENFELD
@@ -88,6 +90,8 @@ Journal of Strength and Conditioning Research
 /C2112010 National Strength and Conditioning Association
 VOLUME 24 | NUMBER 10 | OCTOBER 2010 | 2857
 Copyright © National Strength and Conditioning Association Unauthorized reproduction of this article is prohibited.
+
+# Page 1
 
 increase of sarcomeres and myoﬁbrils added in parallel
 (135,1 79). When skeletal muscle is subjected to an overload
@@ -202,6 +206,8 @@ the TM
 Mechanisms of Muscle Hypertrophy
 Copyright © National Strength and Conditioning Association Unauthorized reproduction of this article is prohibited.
 
+# Page 2
+
 Akt/Mammalian Target of Rapamycin Pathway
 The Akt/mTOR pathway is believed to act as a master
 network regulating skeletal muscle growth (18,77,181).
@@ -314,6 +320,8 @@ Journal of Strength and Conditioning Research
 the TM
 | www.nsca-jscr.org
 Copyright © National Strength and Conditioning Association Unauthorized reproduction of this article is prohibited.
+
+# Page 3
 
 promotes anabolism by increasing the rate of protein
 synthesis in differentiated myoﬁbers (15,63). Moreover,
@@ -428,6 +436,8 @@ the TM
 Mechanisms of Muscle Hypertrophy
 Copyright © National Strength and Conditioning Association Unauthorized reproduction of this article is prohibited.
 
+# Page 4
+
 into account the time course of GH elevation in conjunction
 with myotrauma. Thus, it is impossible to draw conclusions
 from these studies as to whether an exercise-induced GH
@@ -540,6 +550,8 @@ the TM
 | www.nsca-jscr.org
 Copyright © National Strength and Conditioning Association Unauthorized reproduction of this article is prohibited.
 
+# Page 5
+
 Mechanical Tension
 Mechanically induced tension produced both by force genera-
 tion and stretch is considered essential to muscle growth, and
@@ -651,6 +663,8 @@ exercise-induced muscle hypertrophy. The following is
 the TM
 Mechanisms of Muscle Hypertrophy
 Copyright © National Strength and Conditioning Association Unauthorized reproduction of this article is prohibited.
+
+# Page 6
 
 a review as to how each training variable impacts the
 hypertrophic response with respect to the physiological
@@ -766,6 +780,8 @@ the TM
 | www.nsca-jscr.org
 Copyright © National Strength and Conditioning Association Unauthorized reproduction of this article is prohibited.
 
+# Page 7
+
 levels to a greater extent than low-volume routines (92,94).
 Schwab et al. (150) showed that testosterone did not signiﬁcantly
 increase during squat performance until after completion of
@@ -879,6 +895,8 @@ elbow ﬂexion, MUs in the medial aspect are recruited for
 the TM
 Mechanisms of Muscle Hypertrophy
 Copyright © National Strength and Conditioning Association Unauthorized reproduction of this article is prohibited.
+
+# Page 8
 
 supination, and centrally located MUs are recruited for non-
 linear combinations of ﬂexion and supination (1 75,1 76,184).
@@ -995,6 +1013,8 @@ the TM
 | www.nsca-jscr.org
 Copyright © National Strength and Conditioning Association Unauthorized reproduction of this article is prohibited.
 
+# Page 9
+
 Moderate rest intervals also help to enhance the body’s
 anabolic environment to a greater extent than longer rest
 intervals. For one, moderate rest induces greater hypoxia,
@@ -1108,6 +1128,8 @@ velocity curve, which shows greater muscle forces are
 the TM
 Mechanisms of Muscle Hypertrophy
 Copyright © National Strength and Conditioning Association Unauthorized reproduction of this article is prohibited.
+
+# Page 10
 
 generated at higher velocities. However, ﬁndings of this study
 are limited because subjects trained on an isokinetic
@@ -1233,6 +1255,8 @@ Journal of Strength and Conditioning Research
 the TM
 | www.nsca-jscr.org
 Copyright © National Strength and Conditioning Association Unauthorized reproduction of this article is prohibited.
+
+# Page 11
 
 26. Chin, ER. Role of Ca2+/calmodulin-dependent kinases in skeletal
 muscle plasticity. J Appl Physiol 99: 414–423, 2005.
@@ -1366,6 +1390,8 @@ molecular biology. J Appl Physiol 91: 534–551, 2001.
 the TM
 Mechanisms of Muscle Hypertrophy
 Copyright © National Strength and Conditioning Association Unauthorized reproduction of this article is prohibited.
+
+# Page 12
 
 67. Heron, MI and Richmond, FJR. In-series ﬁber architecture in long
 human muscles. J Morphol 216: 35–45, 1993.
@@ -1504,6 +1530,8 @@ the TM
 | www.nsca-jscr.org
 Copyright © National Strength and Conditioning Association Unauthorized reproduction of this article is prohibited.
 
+# Page 13
+
 101. Lange, KH, Andersen, JL, Beyer, N, Isaksson, F, Larsson, B,
 Rasmussen, MH, Juul, A, Bu ¨ low, J, and Kjaer, M. GH adminis-
 tration changes myosin heavy chain isoforms in skeletal muscle but
@@ -1639,6 +1667,8 @@ the TM
 Mechanisms of Muscle Hypertrophy
 Copyright © National Strength and Conditioning Association Unauthorized reproduction of this article is prohibited.
 
+# Page 14
+
 141. Ratamess, NA, Falvo, MJ, Mangine, GT, Hoffman, JR,
 Faigenbaum, AD, and Kang, J. The effect of rest interval length on
 metabolic responses to the bench press exercise. Eur J Appl Physiol
@@ -1770,6 +1800,8 @@ Journal of Strength and Conditioning Research
 the TM
 | www.nsca-jscr.org
 Copyright © National Strength and Conditioning Association Unauthorized reproduction of this article is prohibited.
+
+# Page 15
 
 182. T oigo, M and Boutellier, U. New fundamental resistance exercise
 determinants of molecular and cellular muscle adaptations. Eur J
